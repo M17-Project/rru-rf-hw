@@ -1,0 +1,31 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 723da204-b5ac-41f7-a24f-183271e54144)
+
+  (paper "A3")
+
+  (title_block
+    (title "M17 Remote Radio Unit - RF board")
+    (date "10-10-2023")
+    (rev "A")
+    (company "M17 Project")
+    (comment 1 "Wojciech Kaczmarski, SP5WWP")
+  )
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "13.8V_OUT" (shape output) (at 163.83 184.15 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 06b1eada-1f7e-4e2a-9208-84bb04614850)
+  )
+  (hierarchical_label "5V_OUT" (shape output) (at 173.99 189.23 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 0defa6fa-e360-41c9-b662-1a855fea65d5)
+  )
+  (hierarchical_label "3.3V_OUT" (shape output) (at 179.07 196.85 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 1e7fadb9-6cf7-4c75-8140-56f42ab08db3)
+  )
+)
