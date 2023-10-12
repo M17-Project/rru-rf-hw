@@ -220,11 +220,6 @@
     (stroke (width 0) (type default))
     (uuid 85b4bf71-702f-4418-a427-da8d8f783a7b)
   )
-  (bus (pts (xy 106.68 217.17) (xy 106.68 241.3))
-    (stroke (width 0) (type default))
-    (uuid 86988620-5271-4370-a3ad-5b8083cd50f4)
-  )
-
   (wire (pts (xy 322.58 118.11) (xy 330.2 118.11))
     (stroke (width 0) (type default))
     (uuid 8b4460af-8b02-436f-81b8-80194ca46140)
