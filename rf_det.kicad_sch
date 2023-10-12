@@ -421,7 +421,7 @@
     (stroke (width 0) (type default))
     (uuid 261980cb-eb30-48d0-b9ba-effe82bcc014)
   )
-  (wire (pts (xy 137.16 210.82) (xy 137.16 214.63))
+  (wire (pts (xy 137.16 212.09) (xy 137.16 214.63))
     (stroke (width 0) (type default))
     (uuid 29d39c4b-fd62-4d98-b072-a51700e007a3)
   )
@@ -513,7 +513,7 @@
     (stroke (width 0) (type default))
     (uuid 5a9f01ed-ac17-450d-9f16-45de55467502)
   )
-  (wire (pts (xy 116.84 210.82) (xy 116.84 213.36))
+  (wire (pts (xy 116.84 212.09) (xy 116.84 214.63))
     (stroke (width 0) (type default))
     (uuid 5c1b3334-7c0a-4b61-acf7-8e97030ef3cf)
   )
@@ -565,7 +565,7 @@
     (stroke (width 0) (type default))
     (uuid 8fb086a9-0643-4798-bfa6-e0075369509b)
   )
-  (wire (pts (xy 128.27 210.82) (xy 128.27 214.63))
+  (wire (pts (xy 128.27 212.09) (xy 128.27 214.63))
     (stroke (width 0) (type default))
     (uuid 92820599-1e0b-4cd0-a8ae-17812df29e53)
   )
@@ -621,11 +621,11 @@
     (stroke (width 0) (type default))
     (uuid ad464e74-799c-4252-8598-e2e7dc9f9886)
   )
-  (wire (pts (xy 116.84 203.2) (xy 116.84 205.74))
+  (wire (pts (xy 116.84 203.2) (xy 116.84 207.01))
     (stroke (width 0) (type default))
     (uuid ad853afc-c5ad-47a2-abf3-abdc6ba8ed6e)
   )
-  (wire (pts (xy 137.16 205.74) (xy 137.16 203.2))
+  (wire (pts (xy 137.16 207.01) (xy 137.16 203.2))
     (stroke (width 0) (type default))
     (uuid b000aaa0-1872-4810-9834-5356846ebbb5)
   )
@@ -757,7 +757,7 @@
     (stroke (width 0) (type default))
     (uuid ea043530-c9db-4885-aa0a-06ef9d8e7ffc)
   )
-  (wire (pts (xy 128.27 203.2) (xy 128.27 205.74))
+  (wire (pts (xy 128.27 203.2) (xy 128.27 207.01))
     (stroke (width 0) (type default))
     (uuid eb6c4a00-bfa8-4509-a73b-b81aab0a3b75)
   )
@@ -856,7 +856,7 @@
   (symbol (lib_id "Device:FerriteBead_Small") (at 123.19 203.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 00dd737b-f76e-4543-9a8b-dc56969ff004)
-    (property "Reference" "FB2" (at 123.1519 197.3539 90)
+    (property "Reference" "FB3" (at 123.1519 197.3539 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Bead" (at 123.1519 199.7781 90)
@@ -876,7 +876,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "FB2") (unit 1)
+          (reference "FB3") (unit 1)
         )
       )
     )
@@ -885,7 +885,7 @@
   (symbol (lib_id "power:GND") (at 101.6 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 07196654-089d-4cd4-9350-72716d6c5608)
-    (property "Reference" "#PWR022" (at 101.6 105.41 0)
+    (property "Reference" "#PWR052" (at 101.6 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 101.6 103.1931 0)
@@ -901,7 +901,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "#PWR022") (unit 1)
+          (reference "#PWR052") (unit 1)
         )
       )
     )
@@ -960,7 +960,7 @@
           (reference "U2") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "U10") (unit 1)
+          (reference "U11") (unit 1)
         )
       )
     )
@@ -969,7 +969,7 @@
   (symbol (lib_id "power:GND") (at 137.16 214.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 09d3de00-8ad5-47a7-ade9-892eb79b4ef3)
-    (property "Reference" "#PWR029" (at 137.16 220.98 0)
+    (property "Reference" "#PWR059" (at 137.16 220.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 137.16 218.7631 0)
@@ -985,7 +985,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "#PWR029") (unit 1)
+          (reference "#PWR059") (unit 1)
         )
       )
     )
@@ -994,7 +994,7 @@
   (symbol (lib_id "Device:C_Small") (at 133.35 72.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0e28b89f-96ab-4d51-a4a1-4e11490e9bb2)
-    (property "Reference" "C13" (at 135.6741 71.1842 0)
+    (property "Reference" "C43" (at 135.6741 71.1842 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1n" (at 135.6741 73.6084 0)
@@ -1011,32 +1011,32 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "C13") (unit 1)
+          (reference "C43") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "power:GND") (at 116.84 213.36 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 116.84 214.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 165f50fd-4bbb-4bb8-8b40-bca4ad82587f)
-    (property "Reference" "#PWR024" (at 116.84 219.71 0)
+    (property "Reference" "#PWR054" (at 116.84 220.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 116.84 217.4931 0)
+    (property "Value" "GND" (at 116.84 218.7631 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 116.84 213.36 0)
+    (property "Footprint" "" (at 116.84 214.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 116.84 213.36 0)
+    (property "Datasheet" "" (at 116.84 214.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid dc607cf9-2991-4980-bf38-c6dd46921833))
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "#PWR024") (unit 1)
+          (reference "#PWR054") (unit 1)
         )
       )
     )
@@ -1045,7 +1045,7 @@
   (symbol (lib_id "Device:R_Small") (at 152.4 106.68 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2fa2fb1a-a50f-4335-9f60-43e831da018b)
-    (property "Reference" "R19" (at 152.4 104.14 90)
+    (property "Reference" "R27" (at 152.4 104.14 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "499R" (at 152.4 109.22 90)
@@ -1065,7 +1065,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "R19") (unit 1)
+          (reference "R27") (unit 1)
         )
       )
     )
@@ -1074,7 +1074,7 @@
   (symbol (lib_id "Device:C_Small") (at 123.19 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3279d697-4295-4231-aeb2-e82a909be6b7)
-    (property "Reference" "C10" (at 118.11 128.27 0)
+    (property "Reference" "C40" (at 118.11 128.27 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 115.57 130.81 0)
@@ -1091,7 +1091,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "C10") (unit 1)
+          (reference "C40") (unit 1)
         )
       )
     )
@@ -1100,7 +1100,7 @@
   (symbol (lib_id "power:GND") (at 288.29 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 33e24709-04cf-4339-a27e-744e283649f9)
-    (property "Reference" "#PWR034" (at 288.29 140.97 0)
+    (property "Reference" "#PWR064" (at 288.29 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 288.29 138.7531 0)
@@ -1116,7 +1116,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "#PWR034") (unit 1)
+          (reference "#PWR064") (unit 1)
         )
       )
     )
@@ -1125,7 +1125,7 @@
   (symbol (lib_id "power:GND") (at 295.91 127 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 47b94bb5-5f73-4ebd-929b-3f44001ba57b)
-    (property "Reference" "#PWR035" (at 295.91 133.35 0)
+    (property "Reference" "#PWR065" (at 295.91 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 295.91 131.1331 0)
@@ -1141,7 +1141,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "#PWR035") (unit 1)
+          (reference "#PWR065") (unit 1)
         )
       )
     )
@@ -1200,25 +1200,25 @@
           (reference "U3") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "U11") (unit 1)
+          (reference "U12") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 137.16 208.28 0) (unit 1)
+  (symbol (lib_id "Device:C_Small") (at 137.16 209.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 67eec601-86c6-4701-9e59-7587e78ec4c3)
-    (property "Reference" "C14" (at 139.4841 207.0742 0)
+    (property "Reference" "C44" (at 139.4841 208.3442 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1n" (at 139.4841 209.4984 0)
+    (property "Value" "1n" (at 139.4841 210.7684 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 137.16 208.28 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 137.16 209.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 137.16 208.28 0)
+    (property "Datasheet" "~" (at 137.16 209.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 2817d4cf-096d-4002-ac05-712fcae6294b))
@@ -1226,7 +1226,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "C14") (unit 1)
+          (reference "C44") (unit 1)
         )
       )
     )
@@ -1235,7 +1235,7 @@
   (symbol (lib_id "Device:C_Small") (at 298.45 72.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7f51cf5b-7b85-4a51-87b2-b85fd8794cd5)
-    (property "Reference" "C17" (at 300.7741 71.1842 0)
+    (property "Reference" "C47" (at 300.7741 71.1842 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1n" (at 300.7741 73.6084 0)
@@ -1252,7 +1252,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "C17") (unit 1)
+          (reference "C47") (unit 1)
         )
       )
     )
@@ -1261,7 +1261,7 @@
   (symbol (lib_id "Device:C_Small") (at 288.29 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9019d3f1-31c4-4e39-8789-69088dc2ad01)
-    (property "Reference" "C15" (at 283.21 128.27 0)
+    (property "Reference" "C45" (at 283.21 128.27 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 280.67 130.81 0)
@@ -1278,7 +1278,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "C15") (unit 1)
+          (reference "C45") (unit 1)
         )
       )
     )
@@ -1287,7 +1287,7 @@
   (symbol (lib_id "Device:R_Small") (at 294.64 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9de9c717-e4d2-4657-a7d0-93d6cc1ce197)
-    (property "Reference" "R20" (at 294.64 62.4291 90)
+    (property "Reference" "R28" (at 294.64 62.4291 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "52R3" (at 294.64 64.8533 90)
@@ -1307,7 +1307,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "R20") (unit 1)
+          (reference "R28") (unit 1)
         )
       )
     )
@@ -1316,7 +1316,7 @@
   (symbol (lib_id "power:GND") (at 281.94 85.09 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9f2ed202-58b9-494e-a066-4c4f9ec6e983)
-    (property "Reference" "#PWR032" (at 281.94 91.44 0)
+    (property "Reference" "#PWR062" (at 281.94 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 281.94 89.2231 0)
@@ -1332,7 +1332,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "#PWR032") (unit 1)
+          (reference "#PWR062") (unit 1)
         )
       )
     )
@@ -1341,7 +1341,7 @@
   (symbol (lib_id "Device:R_Small") (at 129.54 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9fd9eada-c5a6-4dff-985e-54677774dcae)
-    (property "Reference" "R18" (at 129.54 62.4291 90)
+    (property "Reference" "R26" (at 129.54 62.4291 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "52R3" (at 129.54 64.8533 90)
@@ -1361,7 +1361,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "R18") (unit 1)
+          (reference "R26") (unit 1)
         )
       )
     )
@@ -1370,7 +1370,7 @@
   (symbol (lib_id "Device:R_Small") (at 317.5 106.68 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a148917d-bc41-4e2b-8c1a-ce0b564fbc6c)
-    (property "Reference" "R21" (at 317.5 104.14 90)
+    (property "Reference" "R29" (at 317.5 104.14 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "499R" (at 317.5 109.22 90)
@@ -1390,7 +1390,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "R21") (unit 1)
+          (reference "R29") (unit 1)
         )
       )
     )
@@ -1399,7 +1399,7 @@
   (symbol (lib_id "power:GND") (at 158.75 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a4301aa3-c0ac-4556-a0f7-5428db5da86f)
-    (property "Reference" "#PWR030" (at 158.75 114.3 0)
+    (property "Reference" "#PWR060" (at 158.75 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 158.75 112.0831 0)
@@ -1415,25 +1415,25 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR060") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 116.84 208.28 0) (unit 1)
+  (symbol (lib_id "Device:C_Small") (at 116.84 209.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b3803bd5-bebc-4e9a-85ff-fe89fc1a100d)
-    (property "Reference" "C9" (at 119.1641 207.0742 0)
+    (property "Reference" "C39" (at 119.1641 208.3442 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1u" (at 119.1641 209.4984 0)
+    (property "Value" "1u" (at 119.1641 210.7684 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 116.84 208.28 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 116.84 209.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 116.84 208.28 0)
+    (property "Datasheet" "~" (at 116.84 209.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 21082cfd-a18b-4978-85df-27b3677a6907))
@@ -1441,7 +1441,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "C9") (unit 1)
+          (reference "C39") (unit 1)
         )
       )
     )
@@ -1450,7 +1450,7 @@
   (symbol (lib_id "power:GND") (at 116.84 85.09 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b7bd4a4b-a88a-453f-a704-83bdc68ccfd6)
-    (property "Reference" "#PWR023" (at 116.84 91.44 0)
+    (property "Reference" "#PWR053" (at 116.84 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 116.84 89.2231 0)
@@ -1466,7 +1466,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "#PWR023") (unit 1)
+          (reference "#PWR053") (unit 1)
         )
       )
     )
@@ -1475,7 +1475,7 @@
   (symbol (lib_id "power:GND") (at 128.27 214.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d47df748-bb50-4f74-a4b8-4e035ea34293)
-    (property "Reference" "#PWR027" (at 128.27 220.98 0)
+    (property "Reference" "#PWR057" (at 128.27 220.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 128.27 218.7631 0)
@@ -1491,25 +1491,25 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "#PWR027") (unit 1)
+          (reference "#PWR057") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 128.27 208.28 0) (unit 1)
+  (symbol (lib_id "Device:C_Small") (at 128.27 209.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid da517e5f-769e-4cc0-982d-8796d54d2e5c)
-    (property "Reference" "C12" (at 130.5941 207.0742 0)
+    (property "Reference" "C42" (at 130.5941 208.3442 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100n" (at 130.5941 209.4984 0)
+    (property "Value" "100n" (at 130.5941 210.7684 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 128.27 208.28 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 128.27 209.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 128.27 208.28 0)
+    (property "Datasheet" "~" (at 128.27 209.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid ed8632bc-9eeb-4083-bfdd-8381d95abaaf))
@@ -1517,7 +1517,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "C12") (unit 1)
+          (reference "C42") (unit 1)
         )
       )
     )
@@ -1526,7 +1526,7 @@
   (symbol (lib_id "Device:C_Small") (at 290.83 72.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid db917817-e4ab-4589-b61b-3bc24789e4a8)
-    (property "Reference" "C16" (at 293.1541 71.1842 0)
+    (property "Reference" "C46" (at 293.1541 71.1842 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1n" (at 293.1541 73.6084 0)
@@ -1543,7 +1543,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "C16") (unit 1)
+          (reference "C46") (unit 1)
         )
       )
     )
@@ -1552,7 +1552,7 @@
   (symbol (lib_id "power:GND") (at 323.85 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dbe9d761-895c-4e67-84e4-bb1dac889644)
-    (property "Reference" "#PWR036" (at 323.85 114.3 0)
+    (property "Reference" "#PWR066" (at 323.85 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 323.85 112.0831 0)
@@ -1568,7 +1568,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "#PWR036") (unit 1)
+          (reference "#PWR066") (unit 1)
         )
       )
     )
@@ -1577,7 +1577,7 @@
   (symbol (lib_id "power:GND") (at 284.48 69.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e27880a1-c63f-4ea1-8c2c-546912bf30c5)
-    (property "Reference" "#PWR033" (at 284.48 76.2 0)
+    (property "Reference" "#PWR063" (at 284.48 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 284.48 73.9831 0)
@@ -1593,7 +1593,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "#PWR033") (unit 1)
+          (reference "#PWR063") (unit 1)
         )
       )
     )
@@ -1602,7 +1602,7 @@
   (symbol (lib_id "power:GND") (at 119.38 69.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e319aff7-cf39-4889-bed7-34afebee7d37)
-    (property "Reference" "#PWR025" (at 119.38 76.2 0)
+    (property "Reference" "#PWR055" (at 119.38 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 119.38 73.9831 0)
@@ -1618,7 +1618,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "#PWR025") (unit 1)
+          (reference "#PWR055") (unit 1)
         )
       )
     )
@@ -1627,7 +1627,7 @@
   (symbol (lib_id "power:GND") (at 123.19 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e38aa9aa-7fe6-4805-bc5e-37a7b1b76019)
-    (property "Reference" "#PWR026" (at 123.19 140.97 0)
+    (property "Reference" "#PWR056" (at 123.19 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 123.19 138.7531 0)
@@ -1643,7 +1643,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "#PWR026") (unit 1)
+          (reference "#PWR056") (unit 1)
         )
       )
     )
@@ -1652,7 +1652,7 @@
   (symbol (lib_id "power:GND") (at 266.7 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e3f92a96-6f9a-40cd-9500-2965e2664ad4)
-    (property "Reference" "#PWR031" (at 266.7 105.41 0)
+    (property "Reference" "#PWR061" (at 266.7 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 266.7 103.1931 0)
@@ -1668,7 +1668,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "#PWR031") (unit 1)
+          (reference "#PWR061") (unit 1)
         )
       )
     )
@@ -1677,7 +1677,7 @@
   (symbol (lib_id "Device:C_Small") (at 125.73 72.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid eb1e8f87-7b71-4ffd-8461-696ca4ff00a8)
-    (property "Reference" "C11" (at 128.0541 71.1842 0)
+    (property "Reference" "C41" (at 128.0541 71.1842 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1n" (at 128.0541 73.6084 0)
@@ -1694,7 +1694,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "C11") (unit 1)
+          (reference "C41") (unit 1)
         )
       )
     )
@@ -1703,7 +1703,7 @@
   (symbol (lib_id "power:GND") (at 130.81 127 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f236e2f0-eac3-4fe3-ac10-2585c4a6dd72)
-    (property "Reference" "#PWR028" (at 130.81 133.35 0)
+    (property "Reference" "#PWR058" (at 130.81 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 130.81 131.1331 0)
@@ -1719,7 +1719,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "#PWR028") (unit 1)
+          (reference "#PWR058") (unit 1)
         )
       )
     )

@@ -570,10 +570,19 @@
   )
 
 
+  (hierarchical_label "MCU_TX" (shape output) (at 101.6 129.54 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 7d9f3d65-a416-41d0-8f51-830584539e20)
+  )
+  (hierarchical_label "MCU_RX" (shape input) (at 101.6 133.35 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 88b52254-2009-42f7-9498-93132ff81f86)
+  )
+
   (symbol (lib_id "MCU_ST_STM32F4:STM32F405RGTx") (at 144.78 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6a2ca0e8-1daa-4abf-a47a-77c2fa411d8c)
-    (property "Reference" "U12" (at 149.5141 143.9601 0)
+    (property "Reference" "U13" (at 149.5141 143.9601 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "STM32F405RGTx" (at 149.5141 146.3843 0)
@@ -652,7 +661,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/270fa747-1697-46c9-b996-5c9733c883e2"
-          (reference "U12") (unit 1)
+          (reference "U13") (unit 1)
         )
       )
     )
