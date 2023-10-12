@@ -570,6 +570,10 @@
   )
 
 
+  (hierarchical_label "RF_PWR_SP" (shape output) (at 205.74 134.62 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 512e80de-339f-4870-89b6-4636c09799d4)
+  )
   (hierarchical_label "MCU_TX" (shape output) (at 101.6 129.54 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 7d9f3d65-a416-41d0-8f51-830584539e20)

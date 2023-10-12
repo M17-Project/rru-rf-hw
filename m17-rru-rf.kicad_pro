@@ -524,6 +524,10 @@
     [
       "3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02",
       "Interface"
+    ],
+    [
+      "548d001d-7c84-4d2c-957b-c97be3023400",
+      "RF input filter"
     ]
   ],
   "text_variables": {}

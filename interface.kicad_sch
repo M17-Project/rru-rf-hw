@@ -580,7 +580,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 1f5fd0b4-2b11-43e0-94db-d44c0747622b)
   )
-  (hierarchical_label "PA_ENA" (shape output) (at 146.05 151.13 0) (fields_autoplaced)
+  (hierarchical_label "PA_EN" (shape output) (at 146.05 151.13 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 2252ff5d-7214-4758-814d-8a09e23be122)
   )
