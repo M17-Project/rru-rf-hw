@@ -113,7 +113,7 @@
   (symbol (lib_id "Parts:J100N50X4B") (at 203.2 154.94 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 51462872-1ca5-4f0f-8143-862e302eb775)
-    (property "Reference" "R34" (at 207.645 154.94 0)
+    (property "Reference" "R37" (at 207.645 154.94 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "~" (at 203.2 148.59 0)
@@ -132,7 +132,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/52ad0992-68c2-4318-a1ac-e7f0506bc4fb"
-          (reference "R34") (unit 1)
+          (reference "R37") (unit 1)
         )
       )
     )

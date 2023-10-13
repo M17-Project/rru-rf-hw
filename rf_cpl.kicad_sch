@@ -286,7 +286,7 @@
     (uuid aa815bef-7120-424a-bf06-c095ad8f4a33)
   )
 
-  (hierarchical_label "REF_SENSE" (shape output) (at 193.04 165.1 270) (fields_autoplaced)
+  (hierarchical_label "REF_RF" (shape output) (at 193.04 165.1 270) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 4b2094dd-07b6-41a3-a062-b7cb86eb918d)
   )
@@ -294,7 +294,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 99ba1f10-cf31-4e92-93bc-b6eddce5d409)
   )
-  (hierarchical_label "FWD_SENSE" (shape output) (at 223.52 165.1 270) (fields_autoplaced)
+  (hierarchical_label "FWD_RF" (shape output) (at 223.52 165.1 270) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid f64612fc-d318-42e4-9ee5-f95e551651d0)
   )
