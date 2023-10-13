@@ -1,2 +1,2 @@
 # rru-rf-hw
-Remote Radio Unit - RF board.
+Remote Radio Unit RF board.
