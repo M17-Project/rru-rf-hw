@@ -662,6 +662,10 @@
     (stroke (width 0) (type default))
     (uuid 22ad692e-7adc-4142-98f1-f6aaea57ef02)
   )
+  (wire (pts (xy 142.24 93.98) (xy 149.86 93.98))
+    (stroke (width 0) (type default))
+    (uuid 239ac798-ac82-4f6b-9e22-e254c33b516a)
+  )
   (wire (pts (xy 142.24 73.66) (xy 149.86 73.66))
     (stroke (width 0) (type default))
     (uuid 27d6ba35-29b8-470f-9219-4f24a62ae0ca)
@@ -901,6 +905,10 @@
     (stroke (width 0) (type default))
     (uuid c565b478-bec1-401e-83a6-60c139d21432)
   )
+  (wire (pts (xy 154.94 93.98) (xy 158.75 93.98))
+    (stroke (width 0) (type default))
+    (uuid c9a8c49f-17f6-48f5-b9db-0406d2c58945)
+  )
   (wire (pts (xy 228.6 93.98) (xy 228.6 99.06))
     (stroke (width 0) (type default))
     (uuid cae0ac9f-fde9-4402-9371-d4904d7c5fe1)
@@ -1057,6 +1065,10 @@
     (uuid 8aa0e3cb-e930-4ad5-a258-f4bda1b8e3e9)
   )
 
+  (hierarchical_label "40M_IN" (shape input) (at 142.24 93.98 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 0ed7e5e7-a796-44a0-ae16-a4756a54d31e)
+  )
   (hierarchical_label "SPI_MISO" (shape output) (at 142.24 73.66 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 78d22d30-d67c-4556-984a-0b6a055d0a92)
@@ -1175,7 +1187,7 @@
           (reference "C24") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C47") (unit 1)
+          (reference "C48") (unit 1)
         )
       )
     )
@@ -1364,7 +1376,7 @@
           (reference "C20") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C44") (unit 1)
+          (reference "C45") (unit 1)
         )
       )
     )
@@ -1402,7 +1414,7 @@
           (reference "C31") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C58") (unit 1)
+          (reference "C59") (unit 1)
         )
       )
     )
@@ -1440,7 +1452,7 @@
           (reference "C22") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C45") (unit 1)
+          (reference "C46") (unit 1)
         )
       )
     )
@@ -1506,7 +1518,7 @@
           (reference "C26") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C49") (unit 1)
+          (reference "C50") (unit 1)
         )
       )
     )
@@ -1654,7 +1666,45 @@
           (reference "C27") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C52") (unit 1)
+          (reference "C53") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:C_Small") (at 152.4 93.98 270) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 6cb1376e-293c-444c-adf8-d8f0c45c1186)
+    (property "Reference" "C5" (at 152.3937 88.2736 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "1n" (at 152.3937 90.6978 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 152.4 93.98 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 152.4 93.98 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "PN" "C0603C102J5GAC7411" (at 152.4 93.98 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 1a8082f8-4350-4bf8-965e-75c93f9abb2e))
+    (pin "2" (uuid 8d183122-601d-436c-8f29-684b9a939cb9))
+    (instances
+      (project "m17-rru-rf"
+        (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
+          (reference "C5") (unit 1)
+        )
+        (path "/4c42207c-9e6b-42da-ad38-da126b892014/7ebe248e-d508-4395-8ad3-4ea02a49e591"
+          (reference "C4") (unit 1)
+        )
+        (path "/4c42207c-9e6b-42da-ad38-da126b892014/8d8271f4-10c0-40f4-bdf8-e0e4dac71cc9"
+          (reference "C19") (unit 1)
+        )
+        (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
+          (reference "C44") (unit 1)
         )
       )
     )
@@ -1689,7 +1739,7 @@
           (reference "C32") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C50") (unit 1)
+          (reference "C51") (unit 1)
         )
       )
     )
@@ -1784,7 +1834,7 @@
           (reference "C25") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C48") (unit 1)
+          (reference "C49") (unit 1)
         )
       )
     )
@@ -1926,7 +1976,7 @@
           (reference "C30") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C55") (unit 1)
+          (reference "C56") (unit 1)
         )
       )
     )
@@ -1989,7 +2039,7 @@
           (reference "C32") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C53") (unit 1)
+          (reference "C54") (unit 1)
         )
       )
     )
@@ -2131,7 +2181,7 @@
           (reference "C28") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C51") (unit 1)
+          (reference "C52") (unit 1)
         )
       )
     )
@@ -2169,7 +2219,7 @@
           (reference "C23") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C46") (unit 1)
+          (reference "C47") (unit 1)
         )
       )
     )
@@ -2204,7 +2254,7 @@
           (reference "C20") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C56") (unit 1)
+          (reference "C57") (unit 1)
         )
       )
     )
@@ -2334,7 +2384,7 @@
           (reference "C32") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C57") (unit 1)
+          (reference "C58") (unit 1)
         )
       )
     )
@@ -2457,7 +2507,7 @@
           (reference "C29") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C54") (unit 1)
+          (reference "C55") (unit 1)
         )
       )
     )
