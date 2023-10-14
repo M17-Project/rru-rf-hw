@@ -1158,6 +1158,9 @@
     (property "Datasheet" "~" (at 177.8 205.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C473K5RACTU" (at 177.8 205.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 777371a6-eb66-4809-8dc6-3889167f44c0))
     (pin "2" (uuid 0707fcea-ffb9-41ee-8831-2364ec82fcae))
     (instances
@@ -1172,7 +1175,7 @@
           (reference "C24") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C46") (unit 1)
+          (reference "C47") (unit 1)
         )
       )
     )
@@ -1278,6 +1281,9 @@
     (property "Datasheet" "~" (at 124.46 205.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C473K5RACTU" (at 124.46 205.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid bc310f3b-edc0-4c30-8801-cb9428b6fb5b))
     (pin "2" (uuid a16f1c79-1357-4944-9b44-12afb6457773))
     (instances
@@ -1292,7 +1298,7 @@
           (reference "C16") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C39") (unit 1)
+          (reference "C40") (unit 1)
         )
       )
     )
@@ -1341,6 +1347,9 @@
     (property "Datasheet" "~" (at 152.4 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "GRM1885C1H152JA01D" (at 152.4 106.68 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 2d8067c5-f84f-4420-b63d-9cfbf7e33c0e))
     (pin "2" (uuid 7da4a36f-0003-446a-8b38-e07073d0f85c))
     (instances
@@ -1355,7 +1364,7 @@
           (reference "C20") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C43") (unit 1)
+          (reference "C44") (unit 1)
         )
       )
     )
@@ -1376,6 +1385,9 @@
     (property "Datasheet" "~" (at 247.65 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C473K5RACTU" (at 247.65 101.6 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 2a942f78-dcee-4029-b24c-4b861f6714e7))
     (pin "2" (uuid 9e99fbec-d17e-40d2-8310-72ef02557f42))
     (instances
@@ -1390,7 +1402,7 @@
           (reference "C31") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C57") (unit 1)
+          (reference "C58") (unit 1)
         )
       )
     )
@@ -1411,6 +1423,9 @@
     (property "Datasheet" "~" (at 160.02 205.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C473K5RACTU" (at 160.02 205.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 6895c084-dea5-4ac9-857a-335348ef5bc9))
     (pin "2" (uuid 5b0ab69d-12aa-4fcc-a383-0ca0b802beec))
     (instances
@@ -1425,7 +1440,7 @@
           (reference "C22") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C44") (unit 1)
+          (reference "C45") (unit 1)
         )
       )
     )
@@ -1474,6 +1489,9 @@
     (property "Datasheet" "~" (at 195.58 205.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C473K5RACTU" (at 195.58 205.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid afe7450b-963b-44e0-86ee-7f354cde1bf1))
     (pin "2" (uuid e8335605-2629-4d75-b0e8-731010191007))
     (instances
@@ -1488,7 +1506,7 @@
           (reference "C26") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C48") (unit 1)
+          (reference "C49") (unit 1)
         )
       )
     )
@@ -1619,6 +1637,9 @@
     (property "Datasheet" "~" (at 219.71 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C473K5RACTU" (at 219.71 101.6 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid cd96f1c0-6cc0-425f-bf62-0e6bb52067fe))
     (pin "2" (uuid b0f42e7f-de7f-43c0-bc6d-db2c5f1bc23d))
     (instances
@@ -1633,7 +1654,7 @@
           (reference "C27") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C51") (unit 1)
+          (reference "C52") (unit 1)
         )
       )
     )
@@ -1668,7 +1689,7 @@
           (reference "C32") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C49") (unit 1)
+          (reference "C50") (unit 1)
         )
       )
     )
@@ -1746,6 +1767,9 @@
     (property "Datasheet" "~" (at 186.69 205.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C473K5RACTU" (at 186.69 205.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid b5bffff6-2a55-4b49-b6d2-548df05f7799))
     (pin "2" (uuid 409d34eb-9a02-4c72-a912-1fb1dc405de2))
     (instances
@@ -1760,7 +1784,7 @@
           (reference "C25") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C47") (unit 1)
+          (reference "C48") (unit 1)
         )
       )
     )
@@ -1809,6 +1833,9 @@
     (property "Datasheet" "~" (at 142.24 205.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C473K5RACTU" (at 142.24 205.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 4e50a38e-4779-4392-8c1d-2af9fa179c8f))
     (pin "2" (uuid 5f465704-700c-4300-801d-227de3a850f7))
     (instances
@@ -1823,7 +1850,7 @@
           (reference "C19") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C41") (unit 1)
+          (reference "C42") (unit 1)
         )
       )
     )
@@ -1844,6 +1871,9 @@
     (property "Datasheet" "~" (at 133.35 205.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C473K5RACTU" (at 133.35 205.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 10548eac-3e87-47df-8cbb-471f210b0dd8))
     (pin "2" (uuid 4c28f5b4-d30e-43b2-93b0-ebae0b3f3cde))
     (instances
@@ -1858,7 +1888,7 @@
           (reference "C17") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C40") (unit 1)
+          (reference "C41") (unit 1)
         )
       )
     )
@@ -1879,6 +1909,9 @@
     (property "Datasheet" "~" (at 237.49 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C473K5RACTU" (at 237.49 101.6 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 9cb45682-53f8-422f-84a6-05f7fceeeb3c))
     (pin "2" (uuid b1a6aff7-683b-4075-a9be-79f5a005d05e))
     (instances
@@ -1893,7 +1926,7 @@
           (reference "C30") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C54") (unit 1)
+          (reference "C55") (unit 1)
         )
       )
     )
@@ -1956,7 +1989,7 @@
           (reference "C32") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C52") (unit 1)
+          (reference "C53") (unit 1)
         )
       )
     )
@@ -2081,6 +2114,9 @@
     (property "Datasheet" "~" (at 207.01 205.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C104M5RAC7411" (at 207.01 205.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 7f0706b9-3512-4438-a129-49ad779d44bb))
     (pin "2" (uuid 4ee343bc-27f9-471b-b798-7a30cd70718d))
     (instances
@@ -2095,7 +2131,7 @@
           (reference "C28") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C50") (unit 1)
+          (reference "C51") (unit 1)
         )
       )
     )
@@ -2116,6 +2152,9 @@
     (property "Datasheet" "~" (at 168.91 205.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C473K5RACTU" (at 168.91 205.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 800e540e-d4b7-4171-8a77-94b68c0d7de3))
     (pin "2" (uuid ccf9b159-f9e7-4aa4-901f-4f49c3d05d74))
     (instances
@@ -2130,7 +2169,7 @@
           (reference "C23") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C45") (unit 1)
+          (reference "C46") (unit 1)
         )
       )
     )
@@ -2165,7 +2204,7 @@
           (reference "C20") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C55") (unit 1)
+          (reference "C56") (unit 1)
         )
       )
     )
@@ -2295,7 +2334,7 @@
           (reference "C32") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C56") (unit 1)
+          (reference "C57") (unit 1)
         )
       )
     )
@@ -2401,6 +2440,9 @@
     (property "Datasheet" "~" (at 228.6 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C473K5RACTU" (at 228.6 101.6 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid eb1a9f4b-6641-4980-a8fd-76ec0ba7595a))
     (pin "2" (uuid 48817b79-1855-49ed-8768-d70dddc3c351))
     (instances
@@ -2415,7 +2457,7 @@
           (reference "C29") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C53") (unit 1)
+          (reference "C54") (unit 1)
         )
       )
     )
@@ -2655,6 +2697,9 @@
     (property "Datasheet" "~" (at 151.13 205.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C473K5RACTU" (at 151.13 205.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 4f4d5612-ca3c-4a51-91c7-70ace2d201dc))
     (pin "2" (uuid 11685a48-8c35-42c3-9094-c7d889a692b1))
     (instances
@@ -2669,7 +2714,7 @@
           (reference "C21") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/67f0dbce-cbd0-480e-94dd-fb4f6a57e3e4"
-          (reference "C42") (unit 1)
+          (reference "C43") (unit 1)
         )
       )
     )

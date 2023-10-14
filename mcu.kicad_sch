@@ -1592,6 +1592,9 @@
     (property "Datasheet" "~" (at 327.66 186.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C104M5RAC7411" (at 327.66 186.69 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid af8d48ed-7daf-4834-a10f-16f539197d9b))
     (pin "2" (uuid 4f63cc28-948b-4f09-b031-2bb2a6fd4a27))
     (instances
@@ -1603,7 +1606,7 @@
           (reference "C68") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/270fa747-1697-46c9-b996-5c9733c883e2"
-          (reference "C78") (unit 1)
+          (reference "C79") (unit 1)
         )
       )
     )
@@ -1649,6 +1652,9 @@
     (property "Datasheet" "~" (at 275.59 210.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "CL10B105KB8NQNC" (at 275.59 210.82 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 10add875-0145-450b-a142-64c382f3eae7))
     (pin "2" (uuid 06a05e23-cd85-4534-b26a-28738db01a7e))
     (instances
@@ -1660,7 +1666,7 @@
           (reference "C67") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/270fa747-1697-46c9-b996-5c9733c883e2"
-          (reference "C72") (unit 1)
+          (reference "C73") (unit 1)
         )
       )
     )
@@ -1692,7 +1698,7 @@
           (reference "C67") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/270fa747-1697-46c9-b996-5c9733c883e2"
-          (reference "C67") (unit 1)
+          (reference "C68") (unit 1)
         )
       )
     )
@@ -1738,6 +1744,9 @@
     (property "Datasheet" "~" (at 317.5 186.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C104M5RAC7411" (at 317.5 186.69 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 5fd6e4cd-4758-409a-9292-988a8a29910c))
     (pin "2" (uuid 73cfd943-3bfb-4c44-8612-030f7e935215))
     (instances
@@ -1749,7 +1758,7 @@
           (reference "C68") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/270fa747-1697-46c9-b996-5c9733c883e2"
-          (reference "C77") (unit 1)
+          (reference "C78") (unit 1)
         )
       )
     )
@@ -1924,6 +1933,9 @@
     (property "Datasheet" "~" (at 106.68 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "GRM188R61H225ME11J" (at 106.68 182.88 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 9aee9955-1b37-4253-aa67-325a0a9d27b2))
     (pin "2" (uuid 7c55116e-efe0-4683-979a-e9516f0ccb0b))
     (instances
@@ -1935,7 +1947,7 @@
           (reference "C67") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/270fa747-1697-46c9-b996-5c9733c883e2"
-          (reference "C70") (unit 1)
+          (reference "C71") (unit 1)
         )
       )
     )
@@ -1967,7 +1979,7 @@
           (reference "C67") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/270fa747-1697-46c9-b996-5c9733c883e2"
-          (reference "C68") (unit 1)
+          (reference "C69") (unit 1)
         )
       )
     )
@@ -2295,6 +2307,9 @@
     (property "Datasheet" "~" (at 337.82 186.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C104M5RAC7411" (at 337.82 186.69 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 5c656482-16c7-4eeb-8bd9-ee10959d98cb))
     (pin "2" (uuid 475344d0-51fc-463f-a575-fba556bcf355))
     (instances
@@ -2306,7 +2321,7 @@
           (reference "C68") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/270fa747-1697-46c9-b996-5c9733c883e2"
-          (reference "C79") (unit 1)
+          (reference "C80") (unit 1)
         )
       )
     )
@@ -2418,6 +2433,9 @@
     (property "Datasheet" "~" (at 295.91 210.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C103K5RAC7081" (at 295.91 210.82 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid a165dcd3-8146-4a51-9977-bdf50f22a61d))
     (pin "2" (uuid 20bb0cb2-a509-4ea1-b878-303b8b8c7fc6))
     (instances
@@ -2429,7 +2447,7 @@
           (reference "C69") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/270fa747-1697-46c9-b996-5c9733c883e2"
-          (reference "C76") (unit 1)
+          (reference "C77") (unit 1)
         )
       )
     )
@@ -2541,6 +2559,9 @@
     (property "Datasheet" "~" (at 275.59 186.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "CL10B105KB8NQNC" (at 275.59 186.69 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid fbbe3a25-dfe9-404e-a311-cb4fa0a981df))
     (pin "2" (uuid e904481f-71bb-4b42-9b01-d0d8dd103142))
     (instances
@@ -2552,7 +2573,7 @@
           (reference "C67") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/270fa747-1697-46c9-b996-5c9733c883e2"
-          (reference "C71") (unit 1)
+          (reference "C72") (unit 1)
         )
       )
     )
@@ -2629,6 +2650,9 @@
     (property "Datasheet" "~" (at 295.91 186.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C103K5RAC7081" (at 295.91 186.69 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid dc41655f-c43b-46d8-9164-416773e6cb17))
     (pin "2" (uuid 95575beb-4694-483c-9c7d-61f8a5e5f3eb))
     (instances
@@ -2640,7 +2664,7 @@
           (reference "C69") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/270fa747-1697-46c9-b996-5c9733c883e2"
-          (reference "C75") (unit 1)
+          (reference "C76") (unit 1)
         )
       )
     )
@@ -2690,6 +2714,9 @@
     (property "Datasheet" "~" (at 96.52 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "GRM188R61H225ME11J" (at 96.52 182.88 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 1cc1fec7-f17d-4151-abbb-51d8099de7d3))
     (pin "2" (uuid 943e4597-52e1-4585-bd11-0475ac08b97a))
     (instances
@@ -2701,7 +2728,7 @@
           (reference "C67") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/270fa747-1697-46c9-b996-5c9733c883e2"
-          (reference "C69") (unit 1)
+          (reference "C70") (unit 1)
         )
       )
     )
@@ -2722,6 +2749,9 @@
     (property "Datasheet" "~" (at 347.98 186.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C104M5RAC7411" (at 347.98 186.69 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 9e8e0edd-66ff-4168-81cd-84d66a0001c1))
     (pin "2" (uuid bb025b7f-2a8c-4a41-bd53-297cc5a8ef1e))
     (instances
@@ -2733,7 +2763,7 @@
           (reference "C68") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/270fa747-1697-46c9-b996-5c9733c883e2"
-          (reference "C80") (unit 1)
+          (reference "C81") (unit 1)
         )
       )
     )
@@ -2785,6 +2815,9 @@
     (property "Datasheet" "~" (at 287.02 186.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C104M5RAC7411" (at 287.02 186.69 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid e9309914-ab5c-4083-ac71-7083e49e001c))
     (pin "2" (uuid a18cf1c2-86d3-4452-b5da-1bfcbc093f17))
     (instances
@@ -2796,7 +2829,7 @@
           (reference "C68") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/270fa747-1697-46c9-b996-5c9733c883e2"
-          (reference "C73") (unit 1)
+          (reference "C74") (unit 1)
         )
       )
     )
@@ -2817,6 +2850,9 @@
     (property "Datasheet" "~" (at 287.02 210.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C104M5RAC7411" (at 287.02 210.82 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid e55f4f89-990d-48c8-8628-9b0fa7694bcc))
     (pin "2" (uuid 131784ce-b9d4-461b-b516-0cbb101c7b9b))
     (instances
@@ -2828,7 +2864,7 @@
           (reference "C68") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/270fa747-1697-46c9-b996-5c9733c883e2"
-          (reference "C74") (unit 1)
+          (reference "C75") (unit 1)
         )
       )
     )

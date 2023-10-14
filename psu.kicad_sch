@@ -620,7 +620,7 @@
           (reference "TP2") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/76d2ec5b-2ec2-4780-ac71-2509ae9f2d67"
-          (reference "TP8") (unit 1)
+          (reference "TP10") (unit 1)
         )
       )
     )
@@ -658,7 +658,7 @@
           (reference "C28") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/76d2ec5b-2ec2-4780-ac71-2509ae9f2d67"
-          (reference "C10") (unit 1)
+          (reference "C11") (unit 1)
         )
       )
     )
@@ -767,6 +767,9 @@
     (property "Datasheet" "~" (at 173.99 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C104M5RAC7411" (at 173.99 152.4 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 83f422ed-70f2-423c-b9b0-eb973f495372))
     (pin "2" (uuid 570e5fcc-a2d3-46c3-a65d-6fb12801ac62))
     (instances
@@ -781,7 +784,7 @@
           (reference "C28") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/76d2ec5b-2ec2-4780-ac71-2509ae9f2d67"
-          (reference "C11") (unit 1)
+          (reference "C12") (unit 1)
         )
       )
     )
@@ -876,7 +879,7 @@
           (reference "TP2") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/76d2ec5b-2ec2-4780-ac71-2509ae9f2d67"
-          (reference "TP9") (unit 1)
+          (reference "TP11") (unit 1)
         )
       )
     )
@@ -964,7 +967,7 @@
           (reference "C28") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/76d2ec5b-2ec2-4780-ac71-2509ae9f2d67"
-          (reference "C14") (unit 1)
+          (reference "C15") (unit 1)
         )
       )
     )
@@ -1117,7 +1120,7 @@
           (reference "C42") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/76d2ec5b-2ec2-4780-ac71-2509ae9f2d67"
-          (reference "C13") (unit 1)
+          (reference "C14") (unit 1)
         )
       )
     )
@@ -1163,6 +1166,9 @@
     (property "Datasheet" "~" (at 207.01 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C104M5RAC7411" (at 207.01 134.62 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid d680329d-d7fe-40fe-a071-3f5fa6c5dff8))
     (pin "2" (uuid 0488c3a6-3a07-4c61-9d00-2fcabf668af9))
     (instances
@@ -1177,7 +1183,7 @@
           (reference "C28") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/76d2ec5b-2ec2-4780-ac71-2509ae9f2d67"
-          (reference "C12") (unit 1)
+          (reference "C13") (unit 1)
         )
       )
     )

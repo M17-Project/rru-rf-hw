@@ -883,6 +883,9 @@
     (property "Datasheet" "~" (at 292.1 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C102J5GAC7411" (at 292.1 134.62 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid c3ad1431-058a-43ce-af13-8e1e8d8161d3))
     (pin "2" (uuid e9eec4fe-02b3-43bc-9e77-6c34440b66e9))
     (instances
@@ -891,7 +894,7 @@
           (reference "C14") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "C83") (unit 1)
+          (reference "C84") (unit 1)
         )
       )
     )
@@ -912,6 +915,9 @@
     (property "Datasheet" "~" (at 271.78 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "CL10B105KB8NQNC" (at 271.78 134.62 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid e525221b-9858-4efa-ba76-212ca8709f2c))
     (pin "2" (uuid 6907ee9a-781e-4224-89de-69760c316e46))
     (instances
@@ -920,7 +926,7 @@
           (reference "C9") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "C81") (unit 1)
+          (reference "C82") (unit 1)
         )
       )
     )
@@ -973,6 +979,9 @@
     (property "Datasheet" "~" (at 283.21 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "PN" "C0603C104M5RAC7411" (at 283.21 134.62 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 1cb9c02d-2a0a-4474-b3b4-f773930af714))
     (pin "2" (uuid e589fc23-7b0c-4200-8ad7-a4d9b57e7a42))
     (instances
@@ -981,7 +990,7 @@
           (reference "C12") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "C82") (unit 1)
+          (reference "C83") (unit 1)
         )
       )
     )
