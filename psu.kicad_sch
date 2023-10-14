@@ -667,7 +667,7 @@
   (symbol (lib_id "power:GND") (at 173.99 157.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 33537549-37ae-4f0d-bda5-896f384c7fe4)
-    (property "Reference" "#PWR020" (at 173.99 163.83 0)
+    (property "Reference" "#PWR019" (at 173.99 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 173.99 161.6131 0)
@@ -683,7 +683,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/76d2ec5b-2ec2-4780-ac71-2509ae9f2d67"
-          (reference "#PWR020") (unit 1)
+          (reference "#PWR019") (unit 1)
         )
       )
     )
@@ -692,7 +692,7 @@
   (symbol (lib_id "power:GND") (at 213.36 163.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3d7c0e76-d29e-412d-bf12-9d3aed94863a)
-    (property "Reference" "#PWR022" (at 213.36 170.18 0)
+    (property "Reference" "#PWR021" (at 213.36 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 213.36 167.9631 0)
@@ -708,7 +708,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/76d2ec5b-2ec2-4780-ac71-2509ae9f2d67"
-          (reference "#PWR022") (unit 1)
+          (reference "#PWR021") (unit 1)
         )
       )
     )
@@ -885,7 +885,7 @@
   (symbol (lib_id "power:GND") (at 222.25 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 76fc2dd8-1982-41a5-bd5a-1e4d8a4bb8d0)
-    (property "Reference" "#PWR023" (at 222.25 139.7 0)
+    (property "Reference" "#PWR022" (at 222.25 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 222.25 137.4831 0)
@@ -901,7 +901,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/76d2ec5b-2ec2-4780-ac71-2509ae9f2d67"
-          (reference "#PWR023") (unit 1)
+          (reference "#PWR022") (unit 1)
         )
       )
     )
@@ -910,7 +910,7 @@
   (symbol (lib_id "power:GND") (at 229.87 163.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 82d54319-705b-4846-801a-41f5df89f744)
-    (property "Reference" "#PWR024" (at 229.87 170.18 0)
+    (property "Reference" "#PWR023" (at 229.87 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 229.87 167.9631 0)
@@ -926,7 +926,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/76d2ec5b-2ec2-4780-ac71-2509ae9f2d67"
-          (reference "#PWR024") (unit 1)
+          (reference "#PWR023") (unit 1)
         )
       )
     )
@@ -1006,7 +1006,7 @@
   (symbol (lib_id "power:GND") (at 160.02 157.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b7153134-72b0-47e3-9329-10bd4158095b)
-    (property "Reference" "#PWR019" (at 160.02 163.83 0)
+    (property "Reference" "#PWR018" (at 160.02 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 160.02 161.6131 0)
@@ -1022,7 +1022,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/76d2ec5b-2ec2-4780-ac71-2509ae9f2d67"
-          (reference "#PWR019") (unit 1)
+          (reference "#PWR018") (unit 1)
         )
       )
     )
@@ -1031,7 +1031,7 @@
   (symbol (lib_id "power:GND") (at 198.12 163.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bf567fd4-0dfd-4220-a13c-1146b7f92fb6)
-    (property "Reference" "#PWR021" (at 198.12 170.18 0)
+    (property "Reference" "#PWR020" (at 198.12 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 198.12 167.9631 0)
@@ -1047,7 +1047,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/76d2ec5b-2ec2-4780-ac71-2509ae9f2d67"
-          (reference "#PWR021") (unit 1)
+          (reference "#PWR020") (unit 1)
         )
       )
     )
