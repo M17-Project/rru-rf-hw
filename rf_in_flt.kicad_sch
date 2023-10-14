@@ -128,6 +128,11 @@
     (uuid bc32d108-111e-403c-84c5-e1c14801f773)
   )
 
+  (text "No filters here yet" (at 195.58 134.62 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 42d0df4a-30e1-4f23-a67d-0f9a8a6dfc4d)
+  )
+
   (hierarchical_label "RF_OUT" (shape output) (at 194.31 138.43 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 80b859c3-fd18-4406-8acb-d2dc826a7898)
@@ -156,7 +161,7 @@
           (reference "J2") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/548d001d-7c84-4d2c-957b-c97be3023400"
-          (reference "J5") (unit 1)
+          (reference "J6") (unit 1)
         )
       )
     )
@@ -184,7 +189,7 @@
           (reference "#PWR051") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/548d001d-7c84-4d2c-957b-c97be3023400"
-          (reference "#PWR0109") (unit 1)
+          (reference "#PWR0110") (unit 1)
         )
       )
     )

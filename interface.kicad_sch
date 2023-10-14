@@ -562,6 +562,15 @@
     (effects (font (size 3.81 3.81)) (justify left bottom))
     (uuid 860ad1c6-2725-4af0-a689-5be2efd7edee)
   )
+  (text "All devices held in reset state\nwhile nRST remains unconnected"
+    (at 78.74 109.22 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid e1261ae7-197e-444a-8743-fac6c6beedc3)
+  )
+  (text "Add ESD protection" (at 125.73 162.56 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid f130f759-185a-42bd-9c41-c6fd7225fad5)
+  )
 
   (label "INTERFACE_3V3" (at 146.05 104.14 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -653,7 +662,7 @@
           (reference "R28") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "R38") (unit 1)
+          (reference "R41") (unit 1)
         )
       )
     )
@@ -662,7 +671,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x16") (at 109.22 140.97 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 11992250-cf30-4c9a-86c5-36bdbb91e95c)
-    (property "Reference" "J4" (at 109.22 117.7757 0)
+    (property "Reference" "J5" (at 109.22 117.7757 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x16" (at 109.22 120.1999 0)
@@ -693,7 +702,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "J4") (unit 1)
+          (reference "J5") (unit 1)
         )
       )
     )
@@ -731,7 +740,7 @@
           (reference "R28") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "R40") (unit 1)
+          (reference "R43") (unit 1)
         )
       )
     )
@@ -759,7 +768,7 @@
           (reference "#PWR058") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "#PWR0104") (unit 1)
+          (reference "#PWR0105") (unit 1)
         )
       )
     )
@@ -787,7 +796,7 @@
           (reference "#PWR024") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "#PWR0106") (unit 1)
+          (reference "#PWR0107") (unit 1)
         )
       )
     )
@@ -825,7 +834,7 @@
           (reference "R28") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "R39") (unit 1)
+          (reference "R42") (unit 1)
         )
       )
     )
@@ -853,7 +862,7 @@
           (reference "#PWR058") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "#PWR0105") (unit 1)
+          (reference "#PWR0106") (unit 1)
         )
       )
     )
@@ -1000,7 +1009,7 @@
           (reference "#PWR029") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "#PWR0108") (unit 1)
+          (reference "#PWR0109") (unit 1)
         )
       )
     )
@@ -1028,7 +1037,7 @@
           (reference "#PWR027") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "#PWR0107") (unit 1)
+          (reference "#PWR0108") (unit 1)
         )
       )
     )

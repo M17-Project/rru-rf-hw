@@ -1045,7 +1045,7 @@
   (symbol (lib_id "Device:R_Small") (at 152.4 106.68 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2fa2fb1a-a50f-4335-9f60-43e831da018b)
-    (property "Reference" "R31" (at 152.4 104.14 90)
+    (property "Reference" "R34" (at 152.4 104.14 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "499R" (at 152.4 109.22 90)
@@ -1065,7 +1065,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "R31") (unit 1)
+          (reference "R34") (unit 1)
         )
       )
     )
@@ -1287,7 +1287,7 @@
   (symbol (lib_id "Device:R_Small") (at 294.64 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9de9c717-e4d2-4657-a7d0-93d6cc1ce197)
-    (property "Reference" "R32" (at 294.64 62.4291 90)
+    (property "Reference" "R35" (at 294.64 62.4291 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "52R3" (at 294.64 64.8533 90)
@@ -1307,7 +1307,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "R32") (unit 1)
+          (reference "R35") (unit 1)
         )
       )
     )
@@ -1341,7 +1341,7 @@
   (symbol (lib_id "Device:R_Small") (at 129.54 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9fd9eada-c5a6-4dff-985e-54677774dcae)
-    (property "Reference" "R30" (at 129.54 62.4291 90)
+    (property "Reference" "R33" (at 129.54 62.4291 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "52R3" (at 129.54 64.8533 90)
@@ -1361,7 +1361,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "R30") (unit 1)
+          (reference "R33") (unit 1)
         )
       )
     )
@@ -1370,7 +1370,7 @@
   (symbol (lib_id "Device:R_Small") (at 317.5 106.68 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a148917d-bc41-4e2b-8c1a-ce0b564fbc6c)
-    (property "Reference" "R33" (at 317.5 104.14 90)
+    (property "Reference" "R36" (at 317.5 104.14 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "499R" (at 317.5 109.22 90)
@@ -1390,7 +1390,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "R33") (unit 1)
+          (reference "R36") (unit 1)
         )
       )
     )
