@@ -2,7 +2,7 @@
 Remote Radio Unit RF board.
 
 ## What is it?
-An FM repeater in a milled aluminum box. Built around a pair of [CC1200 chips](https://www.ti.com/product/CC1200) from Texas Instruments and an RF power amplifier module.
+An FM repeater in a milled aluminum chassis. Built around a pair of [CC1200 chips](https://www.ti.com/product/CC1200) from Texas Instruments and an RF power amplifier module.
 
 ## Quick fact sheet
 RF power module - [RA60H3847M1]([https://www.mitsubishielectric.com/semiconductors/hf/products/lineup/index.html](https://www.mitsubishielectric.com/semiconductors/hf/products/datasheet/ra60h3847m1.pdf))<br>
