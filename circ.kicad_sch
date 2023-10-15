@@ -6,7 +6,7 @@
 
   (title_block
     (title "M17 Remote Radio Unit - RF board")
-    (date "10-10-2023")
+    (date "15-10-2023")
     (rev "A")
     (company "M17 Project")
     (comment 1 "Wojciech Kaczmarski, SP5WWP")
@@ -111,12 +111,12 @@
   )
 
   (symbol (lib_id "Parts:J100N50X4B") (at 203.2 154.94 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 51462872-1ca5-4f0f-8143-862e302eb775)
-    (property "Reference" "R43" (at 207.645 154.94 0)
-      (effects (font (size 1.27 1.27)) (justify left))
+    (property "Reference" "R43" (at 203.2 162.56 0)
+      (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "J100N50X4B" (at 203.2 148.59 0)
+    (property "Value" "J100N50X4B" (at 203.2 165.1 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Parts:HALF_FLANGE_DUMMY_LOAD" (at 203.2 148.59 0)
