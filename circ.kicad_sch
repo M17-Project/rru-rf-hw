@@ -113,7 +113,7 @@
   (symbol (lib_id "Parts:J100N50X4B") (at 203.2 154.94 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 51462872-1ca5-4f0f-8143-862e302eb775)
-    (property "Reference" "R40" (at 207.645 154.94 0)
+    (property "Reference" "R43" (at 207.645 154.94 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "~" (at 203.2 148.59 0)
@@ -132,7 +132,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/52ad0992-68c2-4318-a1ac-e7f0506bc4fb"
-          (reference "R40") (unit 1)
+          (reference "R43") (unit 1)
         )
       )
     )
@@ -141,7 +141,7 @@
   (symbol (lib_id "Parts:WH3538X-1") (at 203.2 127 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 916dd082-d514-4a9f-8dd9-c1920f8e7a84)
-    (property "Reference" "U14" (at 203.0795 115.4879 0)
+    (property "Reference" "U15" (at 203.0795 115.4879 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~" (at 203.2 113.03 0)
@@ -162,7 +162,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/52ad0992-68c2-4318-a1ac-e7f0506bc4fb"
-          (reference "U14") (unit 1)
+          (reference "U15") (unit 1)
         )
       )
     )
