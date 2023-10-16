@@ -144,7 +144,7 @@
     (property "Reference" "J2" (at 218.4401 137.5111 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Conn_Coaxial" (at 218.4401 139.9353 0)
+    (property "Value" "N_PAD" (at 218.4401 139.9353 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Connector_Coaxial:SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount" (at 215.9 138.43 0)
@@ -164,7 +164,7 @@
           (reference "J2") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/548d001d-7c84-4d2c-957b-c97be3023400"
-          (reference "J6") (unit 1)
+          (reference "J7") (unit 1)
         )
       )
     )
@@ -192,7 +192,7 @@
           (reference "#PWR051") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/548d001d-7c84-4d2c-957b-c97be3023400"
-          (reference "#PWR0115") (unit 1)
+          (reference "#PWR0120") (unit 1)
         )
       )
     )
