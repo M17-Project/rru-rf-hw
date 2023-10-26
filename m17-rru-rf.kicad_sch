@@ -636,6 +636,12 @@
     (uuid fe75b571-bf84-41f4-bf9e-fd7ffc2c310f)
   )
 
+  (text "Low power RF tracks:\ncoplanar waveguide\nEr=4.4, height=0.2104mm\n0.25mm track width\n0.052mm conductor gap\n\nHigh power RF tracks:\ncoplanar waveguide\nEr=4.5, height=1.4858mm\n2mm track width\n0.52mm conductor gap"
+    (at 265.43 279.4 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid efc91c46-80d2-4058-9837-24b9b0a6c03e)
+  )
+
   (label "SPI_MOSI" (at 129.54 77.47 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0c2353e9-6603-4f5b-a70b-f86454ecf108)
