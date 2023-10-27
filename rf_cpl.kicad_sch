@@ -6,7 +6,7 @@
 
   (title_block
     (title "M17 Remote Radio Unit - RF board")
-    (date "15-10-2023")
+    (date "27-10-2023")
     (rev "A")
     (company "M17 Project")
     (comment 1 "Wojciech Kaczmarski, SP5WWP")
@@ -292,6 +292,19 @@
   (text "32.5dB coupling" (at 168.91 137.16 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid dcef756a-194d-45d9-88ab-0b76c41bdd84)
+  )
+
+  (label "RF_OUT_CONN" (at 222.25 129.54 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 511f3503-8804-4d8b-a2b2-bacc00c14dc0)
+  )
+  (label "CPL_REF" (at 193.04 139.7 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 727f1f3c-e25a-4ab6-a556-9d88050ee962)
+  )
+  (label "CPL_FWD" (at 223.52 139.7 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 7303bcb3-9882-4a7b-92b2-3688684ee8d5)
   )
 
   (hierarchical_label "REF_RF" (shape output) (at 193.04 165.1 270) (fields_autoplaced)
