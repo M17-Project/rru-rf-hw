@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 3.2,
+          "height": 6.4,
+          "width": 6.4
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -601,6 +601,10 @@
     [
       "548d001d-7c84-4d2c-957b-c97be3023400",
       "RF input filter"
+    ],
+    [
+      "46aa90bc-6f92-4b5d-819e-37f488a08c56",
+      "Mechanical"
     ]
   ],
   "text_variables": {}

@@ -6,7 +6,7 @@
 
   (title_block
     (title "M17 Remote Radio Unit - RF board")
-    (date "27-10-2023")
+    (date "28-10-2023")
     (rev "A")
     (company "M17 Project")
     (comment 1 "Wojciech Kaczmarski, SP5WWP")
@@ -637,8 +637,8 @@
   )
 
   (text "Low power RF tracks:\ncoplanar waveguide\nEr=4.4, height=0.2104mm\n0.25mm track width\n0.052mm conductor gap\n\nHigh power RF tracks:\ncoplanar waveguide\nEr=4.5, height=1.4858mm\n2mm track width\n0.52mm conductor gap"
-    (at 265.43 279.4 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (at 31.75 73.66 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
     (uuid efc91c46-80d2-4058-9837-24b9b0a6c03e)
   )
 
@@ -905,6 +905,23 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014" (page "10"))
+      )
+    )
+  )
+
+  (sheet (at 266.7 254) (size 25.4 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 46aa90bc-6f92-4b5d-819e-37f488a08c56)
+    (property "Sheetname" "Mechanical" (at 266.7 253.2884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "mech.kicad_sch" (at 266.7 279.9846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "m17-rru-rf"
+        (path "/4c42207c-9e6b-42da-ad38-da126b892014" (page "12"))
       )
     )
   )
