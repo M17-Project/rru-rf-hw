@@ -5,8 +5,8 @@
   (paper "A3")
 
   (title_block
-    (title "M17 Remote Radio Unit - RF board")
-    (date "28-10-2023")
+    (title "Remote Radio Unit - RF board")
+    (date "30-10-2023")
     (rev "A")
     (company "M17 Project")
     (comment 1 "Wojciech Kaczmarski, SP5WWP")
