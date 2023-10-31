@@ -21,6 +21,9 @@ Mode support: analog FM, AFSK (APRS), M17 (possibly others too)<br>
 Circulator:  WH3538X-1, 400..470MHz (microstrip)<br>
 Dummy load: Anaren J100N50X4B<br>
 
+## Firmware
+A basic, "crash-test" frmware template is available [here](https://github.com/M17-Project/rru-rf-fw).
+
 ## License
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
