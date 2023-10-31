@@ -3,6 +3,8 @@
 # rru-rf-hw
 Remote Radio Unit RF board.
 
+<img src="https://github.com/M17-Project/rru-rf-hw/blob/main/m17-rru-rf.png" width="850">
+
 ## What is it?
 An FM repeater in a milled aluminum chassis. Built around a pair of [CC1200 chips](https://www.ti.com/product/CC1200) from Texas Instruments and an RF power amplifier module.
 
