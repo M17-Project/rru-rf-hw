@@ -18,6 +18,8 @@ Power consumption - ~150W at 60W RF out<br>
 Load mismatch immunity - continuous over the whole VSWR range (built in RF isolator)<br>
 Harmonic content - 2nd <-35dBc, 3rd <40dBc (to be measured)<br>
 Mode support: analog FM, AFSK (APRS), M17 (possibly others too)<br>
+Circulator:  WH3538X-1, 400..470MHz (microstrip)<br>
+Dummy load: Anaren J100N50X4B<br>
 
 ## License
 This work is licensed under a
