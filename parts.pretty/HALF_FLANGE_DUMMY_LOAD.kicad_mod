@@ -11,6 +11,6 @@
   )
   (fp_rect (start -7.35 -14.081) (end 7.35 14.081)
     (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 34c59e48-eab3-4126-9a9d-b95e8d7b6b34))
-  (pad "1" smd roundrect (at 0 -17 90) (size 5 2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
+  (pad "1" smd roundrect (at 0 -17.5 90) (size 5 2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
     (thermal_bridge_angle 45) (tstamp 84153458-7d5f-4c0c-a5d1-e28fa8c8c693))
 )
