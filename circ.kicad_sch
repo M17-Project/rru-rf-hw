@@ -133,6 +133,9 @@
     (property "PN" "J100N50X4B" (at 203.2 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "MPN" "J100N50X4B" (at 203.2 154.94 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid dfa038db-c2d6-4fdc-b820-6ef7fff740fc))
     (instances
       (project "m17-rru-rf"
@@ -159,6 +162,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "PN" "WH3538X-1" (at 203.2 127 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "MPN" "WH3538X-1" (at 203.2 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid c7cd697f-52de-4167-9ffe-145ce28e03c5))

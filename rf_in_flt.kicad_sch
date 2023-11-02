@@ -156,6 +156,9 @@
     (property "PN" "-" (at 215.9 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "MPN" "-" (at 215.9 138.43 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 1d710624-1e5b-46f2-ab71-d9937c66c842))
     (pin "2" (uuid 40faf256-8eb4-4214-89e6-56c71d235e9e))
     (instances
