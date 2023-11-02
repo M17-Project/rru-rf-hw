@@ -7,11 +7,10 @@
   (paper "A3")
   (title_block
     (title "M17 Remote Radio Unit RF board")
-    (date "10-10-2023")
+    (date "02-11-2023")
     (rev "A")
     (company "M17 Project")
     (comment 1 "Wojciech Kaczmarski, SP5WWP")
-    (comment 4 "AISLER Project ID: EZUNVLGW")
   )
 
   (layers
@@ -4646,7 +4645,7 @@
     (path "/7ebe248e-d508-4395-8ad3-4ea02a49e591/3ee206fb-ec30-46b5-be40-d1813fcb6056")
     (attr smd)
     (fp_text reference "U1" (at 0 -3.802) (layer "F.SilkS")
-        (effects (font (size 1.27 1.27) (thickness 0.254)))
+        (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp aea70973-e598-4772-9e78-49017b268df8)
     )
     (fp_text value "LT1013DIDR" (at 0 0) (layer "F.SilkS") hide
@@ -13153,8 +13152,8 @@
     (property "ki_description" "Logarithmic Detector/Controller")
     (path "/ccc39fee-262d-4ac9-a9a6-59e024db6eed/543975f9-ce89-4580-9548-53596373a111")
     (attr smd)
-    (fp_text reference "U13" (at 0 -3.81) (layer "F.SilkS")
-        (effects (font (size 1.27 1.27) (thickness 0.254)))
+    (fp_text reference "U13" (at 4.73 3.552) (layer "F.SilkS")
+        (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp 8093d0e2-54dd-4343-a490-dbe0a8fa0d5c)
     )
     (fp_text value "AD8318" (at -3.4544 -5.08) (layer "F.SilkS") hide
@@ -14484,8 +14483,8 @@
     (property "ki_description" "Logarithmic Detector/Controller")
     (path "/ccc39fee-262d-4ac9-a9a6-59e024db6eed/07c448b7-1da3-45c2-a750-5f281b2ece3c")
     (attr smd)
-    (fp_text reference "U12" (at 0 -3.81) (layer "F.SilkS")
-        (effects (font (size 1.27 1.27) (thickness 0.254)))
+    (fp_text reference "U12" (at -5.122 3.552) (layer "F.SilkS")
+        (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp 94ac755f-5d9f-4876-b206-0af00518629a)
     )
     (fp_text value "AD8318" (at -3.4544 -5.08) (layer "F.SilkS") hide
