@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.2,
-          "height": 6.4,
-          "width": 6.4
+          "drill": 0.0,
+          "height": 1.27,
+          "width": 9.144
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -518,7 +518,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "m17-rru-rf.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
