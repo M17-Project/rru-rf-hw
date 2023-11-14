@@ -25,6 +25,9 @@ Dummy load: Anaren J100N50X4B<br>
 ## Firmware
 A basic, "crash-test" frmware template is available [here](https://github.com/M17-Project/rru-rf-fw).
 
+## Chassis
+Milled aluminum chassis is required. A reference design can be obtained from a [separate repository](https://github.com/M17-Project/rru-rf-chassis).
+
 ## License
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
