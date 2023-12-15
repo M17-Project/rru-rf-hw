@@ -11,14 +11,14 @@ Revision A with CC1200 RF front-ends supports various FM-based modes, including 
 
 ## Quick fact sheet
 RF power module - [RA60H3847M1]([https://www.mitsubishielectric.com/semiconductors/hf/products/lineup/index.html](https://www.mitsubishielectric.com/semiconductors/hf/products/datasheet/ra60h3847m1.pdf))<br>
-RF output power - 60W<br>
+RF output power - 1..60W continuous, up to 80W with lower duty cycle<br>
 Frequency range - 420..450MHz<br>
 Frequency error - <0.5 ppm over -40 to +85°C range<br>
 Supply voltage - 13.8V DC<br>
-Power consumption - ~150W at 60W RF out<br>
+Power consumption - <150W at 60W RF out<br>
 Load mismatch immunity - continuous over the whole VSWR range (built in RF isolator)<br>
-Harmonic content - 2nd <-35dBc, 3rd <40dBc (to be measured)<br>
-Mode support: analog FM, AFSK (APRS), M17 (possibly others too)<br>
+Harmonic content - 2nd <-40dBc, 3rd <-55dBc (435MHz at 48.3dBm)<br>
+Mode support: analog FM, M17, (A)FSK<br>
 Circulator:  WH3538X-1, 400..470MHz (microstrip)<br>
 Dummy load: Anaren J100N50X4B<br>
 
