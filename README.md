@@ -28,6 +28,10 @@ A basic, "crash-test" frmware template is available [here](https://github.com/M1
 ## Chassis
 Milled aluminum chassis is required. A reference design can be obtained from a [separate repository](https://github.com/M17-Project/rru-rf-chassis).
 
+## Bodge wire TX mod
+Connect U7's pin 3 (GPIO3) with MCU's pin 33 (PB12). Make sure the `#define #BODGEWIRE_TX` is uncommented in `main.c`.
+This enables external 24kHz baseband sampling clock.
+
 ## License
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
