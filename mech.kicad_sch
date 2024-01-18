@@ -6,8 +6,8 @@
 
   (title_block
     (title "Remote Radio Unit - RF board")
-    (date "10-11-2023")
-    (rev "A")
+    (date "18-01-2024")
+    (rev "B")
     (company "M17 Project")
     (comment 1 "Wojciech Kaczmarski, SP5WWP")
   )
@@ -509,7 +509,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0128") (unit 1)
+          (reference "#PWR0139") (unit 1)
         )
       )
     )
@@ -518,7 +518,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 247.65 106.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0625b55b-83c8-4bec-9403-e5fc18dc9d8b)
-    (property "Reference" "H9" (at 250.19 104.1979 0)
+    (property "Reference" "H3" (at 250.19 104.1979 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "3.2mm" (at 250.19 106.6221 0)
@@ -540,7 +540,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "H9") (unit 1)
+          (reference "H3") (unit 1)
         )
       )
     )
@@ -568,7 +568,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0126") (unit 1)
+          (reference "#PWR0132") (unit 1)
         )
       )
     )
@@ -596,7 +596,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0122") (unit 1)
+          (reference "#PWR0131") (unit 1)
         )
       )
     )
@@ -624,7 +624,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0124") (unit 1)
+          (reference "#PWR0138") (unit 1)
         )
       )
     )
@@ -633,7 +633,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 259.08 120.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 17ca298f-60c2-46ab-85f0-e3610dac40ec)
-    (property "Reference" "H14" (at 261.62 118.1679 0)
+    (property "Reference" "H8" (at 261.62 118.1679 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "3.2mm" (at 261.62 120.5921 0)
@@ -655,7 +655,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "H14") (unit 1)
+          (reference "H8") (unit 1)
         )
       )
     )
@@ -694,7 +694,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 247.65 120.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3a98f8e2-9090-497a-85d0-41028fa55e10)
-    (property "Reference" "H13" (at 250.19 118.1679 0)
+    (property "Reference" "H4" (at 250.19 118.1679 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "3.2mm" (at 250.19 120.5921 0)
@@ -716,7 +716,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "H13") (unit 1)
+          (reference "H4") (unit 1)
         )
       )
     )
@@ -744,7 +744,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0127") (unit 1)
+          (reference "#PWR0136") (unit 1)
         )
       )
     )
@@ -784,7 +784,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 270.51 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4324a1a9-7c6f-4fd2-a0b8-b65602096756)
-    (property "Reference" "H3" (at 273.05 76.2579 0)
+    (property "Reference" "H9" (at 273.05 76.2579 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "3.2mm" (at 273.05 78.6821 0)
@@ -806,7 +806,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "H3") (unit 1)
+          (reference "H9") (unit 1)
         )
       )
     )
@@ -892,7 +892,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0121") (unit 1)
+          (reference "#PWR0127") (unit 1)
         )
       )
     )
@@ -901,7 +901,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 281.94 106.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7027d853-cf08-4fa2-a72e-c86547f90fc7)
-    (property "Reference" "H12" (at 284.48 104.1979 0)
+    (property "Reference" "H14" (at 284.48 104.1979 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "3.2mm" (at 284.48 106.6221 0)
@@ -923,7 +923,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "H12") (unit 1)
+          (reference "H14") (unit 1)
         )
       )
     )
@@ -951,7 +951,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0131") (unit 1)
+          (reference "#PWR0137") (unit 1)
         )
       )
     )
@@ -979,7 +979,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0125") (unit 1)
+          (reference "#PWR0128") (unit 1)
         )
       )
     )
@@ -988,7 +988,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 281.94 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7d1c72b1-d416-49d4-95a9-d8deeb8b6f35)
-    (property "Reference" "H8" (at 284.48 90.2279 0)
+    (property "Reference" "H13" (at 284.48 90.2279 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "3.2mm" (at 284.48 92.6521 0)
@@ -1010,7 +1010,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "H8") (unit 1)
+          (reference "H13") (unit 1)
         )
       )
     )
@@ -1038,7 +1038,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0132") (unit 1)
+          (reference "#PWR0140") (unit 1)
         )
       )
     )
@@ -1047,7 +1047,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 270.51 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 85b9c5a9-a3d5-471d-bc52-1ca8713712a6)
-    (property "Reference" "H7" (at 273.05 90.2279 0)
+    (property "Reference" "H10" (at 273.05 90.2279 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "3.2mm" (at 273.05 92.6521 0)
@@ -1069,7 +1069,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "H7") (unit 1)
+          (reference "H10") (unit 1)
         )
       )
     )
@@ -1125,7 +1125,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0130") (unit 1)
+          (reference "#PWR0133") (unit 1)
         )
       )
     )
@@ -1193,7 +1193,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 281.94 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a80e38d6-3953-48b4-bbd3-067d950e4fc9)
-    (property "Reference" "H4" (at 284.48 76.2579 0)
+    (property "Reference" "H12" (at 284.48 76.2579 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "3.2mm" (at 284.48 78.6821 0)
@@ -1215,7 +1215,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "H4") (unit 1)
+          (reference "H12") (unit 1)
         )
       )
     )
@@ -1224,7 +1224,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 259.08 106.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b3f741f9-3f3a-4c36-9882-c9ca600e3e30)
-    (property "Reference" "H10" (at 261.62 104.1979 0)
+    (property "Reference" "H7" (at 261.62 104.1979 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "3.2mm" (at 261.62 106.6221 0)
@@ -1246,7 +1246,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "H10") (unit 1)
+          (reference "H7") (unit 1)
         )
       )
     )
@@ -1255,7 +1255,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 247.65 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d7710416-ad23-4038-95a2-89393c958edd)
-    (property "Reference" "H5" (at 250.19 90.2279 0)
+    (property "Reference" "H2" (at 250.19 90.2279 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "3.2mm" (at 250.19 92.6521 0)
@@ -1277,7 +1277,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "H5") (unit 1)
+          (reference "H2") (unit 1)
         )
       )
     )
@@ -1316,7 +1316,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 259.08 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e781581e-7316-4768-a6af-5e00b657c84f)
-    (property "Reference" "H2" (at 261.62 76.2579 0)
+    (property "Reference" "H5" (at 261.62 76.2579 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "3.2mm" (at 261.62 78.6821 0)
@@ -1338,7 +1338,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "H2") (unit 1)
+          (reference "H5") (unit 1)
         )
       )
     )
@@ -1366,7 +1366,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0123") (unit 1)
+          (reference "#PWR0135") (unit 1)
         )
       )
     )
@@ -1394,7 +1394,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0133") (unit 1)
+          (reference "#PWR0130") (unit 1)
         )
       )
     )

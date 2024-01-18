@@ -6,8 +6,8 @@
 
   (title_block
     (title "Remote Radio Unit - RF board")
-    (date "10-11-2023")
-    (rev "A")
+    (date "18-01-2024")
+    (rev "B")
     (company "M17 Project")
     (comment 1 "Wojciech Kaczmarski, SP5WWP")
   )
@@ -118,7 +118,7 @@
   (symbol (lib_id "Parts:J100N50X4B") (at 203.2 154.94 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 51462872-1ca5-4f0f-8143-862e302eb775)
-    (property "Reference" "R43" (at 203.2 162.56 0)
+    (property "Reference" "R47" (at 203.2 162.56 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "J100N50X4B" (at 203.2 165.1 0)
@@ -140,7 +140,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/52ad0992-68c2-4318-a1ac-e7f0506bc4fb"
-          (reference "R43") (unit 1)
+          (reference "R47") (unit 1)
         )
       )
     )
@@ -149,7 +149,7 @@
   (symbol (lib_id "Parts:WH3538X-1") (at 203.2 127 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 916dd082-d514-4a9f-8dd9-c1920f8e7a84)
-    (property "Reference" "U15" (at 203.0795 115.4879 0)
+    (property "Reference" "U16" (at 203.0795 115.4879 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "WH3538X-1" (at 203.2 113.03 0)
@@ -173,7 +173,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/52ad0992-68c2-4318-a1ac-e7f0506bc4fb"
-          (reference "U15") (unit 1)
+          (reference "U16") (unit 1)
         )
       )
     )

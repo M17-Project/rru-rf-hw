@@ -6,8 +6,8 @@
 
   (title_block
     (title "Remote Radio Unit - RF board")
-    (date "10-11-2023")
-    (rev "A")
+    (date "18-01-2024")
+    (rev "B")
     (company "M17 Project")
     (comment 1 "Wojciech Kaczmarski, SP5WWP")
   )
@@ -323,7 +323,7 @@
   (symbol (lib_id "power:GND") (at 182.88 154.94 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0ad94606-98ae-454e-b039-909f024aaa12)
-    (property "Reference" "#PWR056" (at 182.88 161.29 0)
+    (property "Reference" "#PWR062" (at 182.88 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 182.88 159.0731 0)
@@ -339,7 +339,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/59b2721c-5b8a-4fc3-bf5e-590dec787afb"
-          (reference "#PWR056") (unit 1)
+          (reference "#PWR062") (unit 1)
         )
       )
     )
@@ -348,7 +348,7 @@
   (symbol (lib_id "power:GND") (at 242.57 135.89 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0edd1761-0dc8-4a0c-b7d6-8a604b7e8817)
-    (property "Reference" "#PWR059" (at 242.57 142.24 0)
+    (property "Reference" "#PWR065" (at 242.57 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 242.57 140.0231 0)
@@ -364,7 +364,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/59b2721c-5b8a-4fc3-bf5e-590dec787afb"
-          (reference "#PWR059") (unit 1)
+          (reference "#PWR065") (unit 1)
         )
       )
     )
@@ -373,7 +373,7 @@
   (symbol (lib_id "Parts:GAT-30+") (at 223.52 151.13 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 212e825b-d510-4b54-addd-caa741393e5c)
-    (property "Reference" "U10" (at 229.235 151.13 90)
+    (property "Reference" "U11" (at 229.235 151.13 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "GAT-30+" (at 223.52 151.13 0)
@@ -398,7 +398,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/59b2721c-5b8a-4fc3-bf5e-590dec787afb"
-          (reference "U10") (unit 1)
+          (reference "U11") (unit 1)
         )
       )
     )
@@ -439,7 +439,7 @@
   (symbol (lib_id "Parts:GAT-30+") (at 193.04 151.13 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3a044316-c859-4aab-8197-42eaf0b8d94c)
-    (property "Reference" "U8" (at 198.755 151.13 90)
+    (property "Reference" "U9" (at 198.755 151.13 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "GAT-30+" (at 193.04 151.13 0)
@@ -464,7 +464,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/59b2721c-5b8a-4fc3-bf5e-590dec787afb"
-          (reference "U8") (unit 1)
+          (reference "U9") (unit 1)
         )
       )
     )
@@ -473,7 +473,7 @@
   (symbol (lib_id "Parts:SYBD-30-62HP+") (at 208.28 127 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 81967f49-45d9-4753-ae2e-816e2ac8ffbf)
-    (property "Reference" "U9" (at 208.28 123.19 0)
+    (property "Reference" "U10" (at 208.28 123.19 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SYBD-30-62HP+" (at 208.28 125.73 0)
@@ -499,7 +499,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/59b2721c-5b8a-4fc3-bf5e-590dec787afb"
-          (reference "U9") (unit 1)
+          (reference "U10") (unit 1)
         )
       )
     )
@@ -508,7 +508,7 @@
   (symbol (lib_id "power:GND") (at 208.28 138.43 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 855c22ea-22cb-466e-80d9-ddacc1782a16)
-    (property "Reference" "#PWR057" (at 208.28 144.78 0)
+    (property "Reference" "#PWR063" (at 208.28 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 208.28 142.5631 0)
@@ -524,7 +524,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/59b2721c-5b8a-4fc3-bf5e-590dec787afb"
-          (reference "#PWR057") (unit 1)
+          (reference "#PWR063") (unit 1)
         )
       )
     )
@@ -533,7 +533,7 @@
   (symbol (lib_id "power:GND") (at 213.36 154.94 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cd40a2c8-addb-4a91-832b-8f5a55ef8cd5)
-    (property "Reference" "#PWR058" (at 213.36 161.29 0)
+    (property "Reference" "#PWR064" (at 213.36 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 213.36 159.0731 0)
@@ -549,7 +549,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/59b2721c-5b8a-4fc3-bf5e-590dec787afb"
-          (reference "#PWR058") (unit 1)
+          (reference "#PWR064") (unit 1)
         )
       )
     )
