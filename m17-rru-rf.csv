@@ -31,7 +31,7 @@
 "J5","SWD_CONN","Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical_SMD_Pin1Left","~","","TSM-105-01-T-SV-TR","TSM-105-01-T-SV-TR","1"
 "J6","DA15_CONN","Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical_SMD","~","","TSM-108-01-L-DV-P-TR","TSM-108-01-L-DV-P-TR","1"
 "JP1","JP","Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm","~","","-","-","1"
-"L1, L6","56n","Inductor_SMD:L_0603_1608Metric","~","","LQW18AS56NG00D","LQW18AS56NG00D","2"
+"L1, L6","56n","Inductor_SMD:L_0603_1608Metric","~","","81-LQW18AN56NG00D","81-LQW18AN56NG00D","2"
 "L2, L8","15n","Inductor_SMD:L_0603_1608Metric","~","","LQW18AS15NG00D","LQW18AS15NG00D","2"
 "L3","43n","Inductor_SMD:L_0603_1608Metric","~","","LQW18AN43NJ00D","LQW18AN43NJ00D","1"
 "L4, L9","22n","Inductor_SMD:L_0603_1608Metric","~","","LQW18AN22NG00D","LQW18AN22NG00D","2"
