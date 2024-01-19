@@ -6,7 +6,7 @@
 
   (title_block
     (title "Remote Radio Unit - RF board")
-    (date "18-01-2024")
+    (date "19-01-2024")
     (rev "B")
     (company "M17 Project")
     (comment 1 "Wojciech Kaczmarski, SP5WWP")
@@ -768,7 +768,7 @@
           (reference "#PWR058") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "#PWR0121") (unit 1)
+          (reference "#PWR0124") (unit 1)
         )
       )
     )
@@ -796,7 +796,7 @@
           (reference "#PWR024") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "#PWR0123") (unit 1)
+          (reference "#PWR0126") (unit 1)
         )
       )
     )
@@ -834,7 +834,7 @@
           (reference "R2") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "R49") (unit 1)
+          (reference "R46") (unit 1)
         )
       )
     )
@@ -862,7 +862,7 @@
           (reference "#PWR058") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "#PWR0122") (unit 1)
+          (reference "#PWR0125") (unit 1)
         )
       )
     )
@@ -897,7 +897,7 @@
           (reference "C14") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "C96") (unit 1)
+          (reference "C97") (unit 1)
         )
       )
     )
@@ -932,7 +932,7 @@
           (reference "C9") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "C94") (unit 1)
+          (reference "C95") (unit 1)
         )
       )
     )
@@ -1005,7 +1005,7 @@
           (reference "R2") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "R48") (unit 1)
+          (reference "R45") (unit 1)
         )
       )
     )
@@ -1040,7 +1040,7 @@
           (reference "C12") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "C95") (unit 1)
+          (reference "C96") (unit 1)
         )
       )
     )
@@ -1078,7 +1078,7 @@
           (reference "R2") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "R50") (unit 1)
+          (reference "R47") (unit 1)
         )
       )
     )
@@ -1106,7 +1106,7 @@
           (reference "#PWR029") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "#PWR0125") (unit 1)
+          (reference "#PWR0128") (unit 1)
         )
       )
     )
@@ -1162,7 +1162,7 @@
           (reference "#PWR027") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "#PWR0124") (unit 1)
+          (reference "#PWR0127") (unit 1)
         )
       )
     )

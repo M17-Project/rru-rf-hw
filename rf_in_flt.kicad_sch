@@ -6,7 +6,7 @@
 
   (title_block
     (title "Remote Radio Unit - RF board")
-    (date "18-01-2024")
+    (date "19-01-2024")
     (rev "B")
     (company "M17 Project")
     (comment 1 "Wojciech Kaczmarski, SP5WWP")
@@ -195,7 +195,7 @@
           (reference "#PWR051") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/548d001d-7c84-4d2c-957b-c97be3023400"
-          (reference "#PWR0126") (unit 1)
+          (reference "#PWR0129") (unit 1)
         )
       )
     )

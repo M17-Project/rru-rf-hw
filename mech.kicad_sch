@@ -6,7 +6,7 @@
 
   (title_block
     (title "Remote Radio Unit - RF board")
-    (date "18-01-2024")
+    (date "19-01-2024")
     (rev "B")
     (company "M17 Project")
     (comment 1 "Wojciech Kaczmarski, SP5WWP")
@@ -509,7 +509,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0139") (unit 1)
+          (reference "#PWR0142") (unit 1)
         )
       )
     )
@@ -568,7 +568,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0132") (unit 1)
+          (reference "#PWR0135") (unit 1)
         )
       )
     )
@@ -596,7 +596,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0131") (unit 1)
+          (reference "#PWR0134") (unit 1)
         )
       )
     )
@@ -624,7 +624,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0138") (unit 1)
+          (reference "#PWR0141") (unit 1)
         )
       )
     )
@@ -744,7 +744,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0136") (unit 1)
+          (reference "#PWR0139") (unit 1)
         )
       )
     )
@@ -892,7 +892,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0127") (unit 1)
+          (reference "#PWR0130") (unit 1)
         )
       )
     )
@@ -951,7 +951,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0137") (unit 1)
+          (reference "#PWR0140") (unit 1)
         )
       )
     )
@@ -979,7 +979,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0128") (unit 1)
+          (reference "#PWR0131") (unit 1)
         )
       )
     )
@@ -1038,7 +1038,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0140") (unit 1)
+          (reference "#PWR0143") (unit 1)
         )
       )
     )
@@ -1097,7 +1097,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0134") (unit 1)
+          (reference "#PWR0137") (unit 1)
         )
       )
     )
@@ -1125,7 +1125,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0133") (unit 1)
+          (reference "#PWR0136") (unit 1)
         )
       )
     )
@@ -1153,7 +1153,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0129") (unit 1)
+          (reference "#PWR0132") (unit 1)
         )
       )
     )
@@ -1366,7 +1366,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0135") (unit 1)
+          (reference "#PWR0138") (unit 1)
         )
       )
     )
@@ -1394,7 +1394,7 @@
           (reference "#PWR083") (unit 1)
         )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/46aa90bc-6f92-4b5d-819e-37f488a08c56"
-          (reference "#PWR0130") (unit 1)
+          (reference "#PWR0133") (unit 1)
         )
       )
     )
