@@ -1158,7 +1158,7 @@
   (symbol (lib_id "Device:C_Small") (at 133.35 72.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0e28b89f-96ab-4d51-a4a1-4e11490e9bb2)
-    (property "Reference" "C75" (at 135.6741 71.1842 0)
+    (property "Reference" "C74" (at 135.6741 71.1842 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1n" (at 135.6741 73.6084 0)
@@ -1181,7 +1181,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "C75") (unit 1)
+          (reference "C74") (unit 1)
         )
       )
     )
@@ -1247,7 +1247,7 @@
   (symbol (lib_id "Device:C_Small") (at 123.19 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3279d697-4295-4231-aeb2-e82a909be6b7)
-    (property "Reference" "C72" (at 115.57 128.27 0)
+    (property "Reference" "C71" (at 115.57 128.27 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 115.57 130.81 0)
@@ -1270,7 +1270,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "C72") (unit 1)
+          (reference "C71") (unit 1)
         )
       )
     )
@@ -1394,7 +1394,7 @@
   (symbol (lib_id "Device:C_Small") (at 137.16 209.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 67eec601-86c6-4701-9e59-7587e78ec4c3)
-    (property "Reference" "C76" (at 139.4841 208.3442 0)
+    (property "Reference" "C75" (at 139.4841 208.3442 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1n" (at 139.4841 210.7684 0)
@@ -1417,7 +1417,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "C76") (unit 1)
+          (reference "C75") (unit 1)
         )
       )
     )
@@ -1426,7 +1426,7 @@
   (symbol (lib_id "Device:C_Small") (at 298.45 72.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7f51cf5b-7b85-4a51-87b2-b85fd8794cd5)
-    (property "Reference" "C79" (at 300.7741 71.1842 0)
+    (property "Reference" "C78" (at 300.7741 71.1842 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1n" (at 300.7741 73.6084 0)
@@ -1449,7 +1449,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "C79") (unit 1)
+          (reference "C78") (unit 1)
         )
       )
     )
@@ -1458,7 +1458,7 @@
   (symbol (lib_id "Device:C_Small") (at 288.29 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9019d3f1-31c4-4e39-8789-69088dc2ad01)
-    (property "Reference" "C77" (at 280.67 128.27 0)
+    (property "Reference" "C76" (at 280.67 128.27 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 280.67 130.81 0)
@@ -1481,7 +1481,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "C77") (unit 1)
+          (reference "C76") (unit 1)
         )
       )
     )
@@ -1636,7 +1636,7 @@
   (symbol (lib_id "Device:C_Small") (at 116.84 209.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b3803bd5-bebc-4e9a-85ff-fe89fc1a100d)
-    (property "Reference" "C71" (at 119.1641 208.3442 0)
+    (property "Reference" "C70" (at 119.1641 208.3442 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1u" (at 119.1641 210.7684 0)
@@ -1659,7 +1659,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "C71") (unit 1)
+          (reference "C70") (unit 1)
         )
       )
     )
@@ -1780,7 +1780,7 @@
   (symbol (lib_id "Device:C_Small") (at 128.27 209.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid da517e5f-769e-4cc0-982d-8796d54d2e5c)
-    (property "Reference" "C74" (at 130.5941 208.3442 0)
+    (property "Reference" "C73" (at 130.5941 208.3442 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 130.5941 210.7684 0)
@@ -1803,7 +1803,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "C74") (unit 1)
+          (reference "C73") (unit 1)
         )
       )
     )
@@ -1812,7 +1812,7 @@
   (symbol (lib_id "Device:C_Small") (at 290.83 72.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid db917817-e4ab-4589-b61b-3bc24789e4a8)
-    (property "Reference" "C78" (at 293.1541 71.1842 0)
+    (property "Reference" "C77" (at 293.1541 71.1842 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1n" (at 293.1541 73.6084 0)
@@ -1835,7 +1835,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "C78") (unit 1)
+          (reference "C77") (unit 1)
         )
       )
     )
@@ -1969,7 +1969,7 @@
   (symbol (lib_id "Device:C_Small") (at 125.73 72.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid eb1e8f87-7b71-4ffd-8461-696ca4ff00a8)
-    (property "Reference" "C73" (at 128.0541 71.1842 0)
+    (property "Reference" "C72" (at 128.0541 71.1842 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1n" (at 128.0541 73.6084 0)
@@ -1992,7 +1992,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/ccc39fee-262d-4ac9-a9a6-59e024db6eed"
-          (reference "C73") (unit 1)
+          (reference "C72") (unit 1)
         )
       )
     )
