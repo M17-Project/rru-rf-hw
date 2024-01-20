@@ -6,7 +6,7 @@
 
   (title_block
     (title "Remote Radio Unit - RF board")
-    (date "19-01-2024")
+    (date "20-01-2024")
     (rev "B")
     (company "M17 Project")
     (comment 1 "Wojciech Kaczmarski, SP5WWP")
@@ -3467,7 +3467,7 @@
     (property "Value" "SS1P4L" (at 291.592 174.8846 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Mine:D0-220AA-SMP" (at 289.56 173.99 0)
+    (property "Footprint" "Mine:DO-220AA-SMP" (at 289.56 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 289.56 173.99 0)
@@ -3874,7 +3874,7 @@
     (property "Value" "SS1P4L" (at 272.542 190.1246 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Mine:D0-220AA-SMP" (at 270.51 189.23 0)
+    (property "Footprint" "Mine:DO-220AA-SMP" (at 270.51 189.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 270.51 189.23 0)
