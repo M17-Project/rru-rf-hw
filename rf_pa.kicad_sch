@@ -2831,7 +2831,7 @@
     (property "Value" "LT1013DIDR" (at 129.54 92.2599 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "SOIC127P600X175-8N" (at 142.24 191.44 0)
+    (property "Footprint" "Mine:SOIC127P600X175-8N" (at 142.24 191.44 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/gpn/lt1013d" (at 142.24 291.44 0)
