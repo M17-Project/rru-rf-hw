@@ -6,8 +6,8 @@
 
   (title_block
     (title "Remote Radio Unit - RF board")
-    (date "20-01-2024")
-    (rev "B")
+    (date "04-04-2024")
+    (rev "C")
     (company "M17 Project")
     (comment 1 "Wojciech Kaczmarski, SP5WWP")
   )
@@ -141,7 +141,7 @@
   (symbol (lib_id "Connector:Conn_Coaxial") (at 215.9 138.43 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 54745732-6888-4221-ba42-266bbf20ab9f)
-    (property "Reference" "J2" (at 218.4401 137.5111 0)
+    (property "Reference" "J7" (at 218.4401 137.5111 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "N_PAD" (at 218.4401 139.9353 0)
@@ -163,9 +163,6 @@
     (pin "2" (uuid 40faf256-8eb4-4214-89e6-56c71d235e9e))
     (instances
       (project "m17-rru-rf"
-        (path "/4c42207c-9e6b-42da-ad38-da126b892014/59b2721c-5b8a-4fc3-bf5e-590dec787afb"
-          (reference "J2") (unit 1)
-        )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/548d001d-7c84-4d2c-957b-c97be3023400"
           (reference "J7") (unit 1)
         )
@@ -176,7 +173,7 @@
   (symbol (lib_id "power:GND") (at 215.9 144.78 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f6b8c4bb-1206-437a-96aa-25c41daa9e14)
-    (property "Reference" "#PWR051" (at 215.9 151.13 0)
+    (property "Reference" "#PWR0139" (at 215.9 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 215.9 148.9131 0)
@@ -191,11 +188,8 @@
     (pin "1" (uuid 95d82fa3-c186-4076-8e52-a1410e3e65c5))
     (instances
       (project "m17-rru-rf"
-        (path "/4c42207c-9e6b-42da-ad38-da126b892014/59b2721c-5b8a-4fc3-bf5e-590dec787afb"
-          (reference "#PWR051") (unit 1)
-        )
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/548d001d-7c84-4d2c-957b-c97be3023400"
-          (reference "#PWR0129") (unit 1)
+          (reference "#PWR0139") (unit 1)
         )
       )
     )

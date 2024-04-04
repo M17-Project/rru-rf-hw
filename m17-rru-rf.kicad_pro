@@ -509,6 +509,14 @@
       {
         "netclass": "RF power",
         "pattern": "/RF coupler/RF_OUT_CONN"
+      },
+      {
+        "netclass": "RF power",
+        "pattern": "/RF PA/PA_OUT"
+      },
+      {
+        "netclass": "RF power",
+        "pattern": "/RF PA/PA_OUT_2"
       }
     ]
   },
