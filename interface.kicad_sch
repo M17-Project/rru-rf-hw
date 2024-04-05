@@ -6,7 +6,7 @@
 
   (title_block
     (title "Remote Radio Unit - RF board")
-    (date "04-04-2024")
+    (date "05-04-2024")
     (rev "C")
     (company "M17 Project")
     (comment 1 "Wojciech Kaczmarski, SP5WWP")
@@ -856,7 +856,7 @@
   (symbol (lib_id "Device:C_Small") (at 292.1 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6f3a68be-e20e-4d80-8118-dc7b9d0855db)
-    (property "Reference" "C104" (at 294.4241 133.4142 0)
+    (property "Reference" "C103" (at 294.4241 133.4142 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1n" (at 294.4241 135.8384 0)
@@ -879,7 +879,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "C104") (unit 1)
+          (reference "C103") (unit 1)
         )
       )
     )
@@ -888,7 +888,7 @@
   (symbol (lib_id "Device:C_Small") (at 271.78 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7fe1b000-c93f-411d-8743-a95962ce83c9)
-    (property "Reference" "C102" (at 274.1041 133.4142 0)
+    (property "Reference" "C101" (at 274.1041 133.4142 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1u" (at 274.1041 135.8384 0)
@@ -911,7 +911,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "C102") (unit 1)
+          (reference "C101") (unit 1)
         )
       )
     )
@@ -984,7 +984,7 @@
   (symbol (lib_id "Device:C_Small") (at 283.21 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a03b131e-7deb-471a-bd21-36a13aa77d67)
-    (property "Reference" "C103" (at 285.5341 133.4142 0)
+    (property "Reference" "C102" (at 285.5341 133.4142 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 285.5341 135.8384 0)
@@ -1007,7 +1007,7 @@
     (instances
       (project "m17-rru-rf"
         (path "/4c42207c-9e6b-42da-ad38-da126b892014/3ea647a3-6e2c-4a7a-bdb8-a6b94119ef02"
-          (reference "C103") (unit 1)
+          (reference "C102") (unit 1)
         )
       )
     )

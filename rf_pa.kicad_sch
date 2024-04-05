@@ -6,7 +6,7 @@
 
   (title_block
     (title "Remote Radio Unit - RF board")
-    (date "04-04-2024")
+    (date "05-04-2024")
     (rev "C")
     (company "M17 Project")
     (comment 1 "Wojciech Kaczmarski, SP5WWP")
@@ -2107,9 +2107,14 @@
     (effects (font (size 3.81 3.81)) (justify left bottom))
     (uuid 52eb6c2b-84e4-4297-a899-a3f1ffbc8626)
   )
-  (text "To be populated manually later on" (at 303.53 87.63 0)
+  (text "Caps to be populated manually later on" (at 300.99 127 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5b838fbf-f608-4f8b-bd85-880b14a20ac2)
+  )
+  (text "Aircoils:\n0.8mm silver plated copper wire\n3 turns\n3.2mm inner dia\n~4mm length\nResulting inductance should be around 24nH"
+    (at 300.99 85.09 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 6eba0203-c02f-47e1-b62c-114df8ed9434)
   )
   (text "Supply switching" (at 215.9 153.67 0)
     (effects (font (size 3.81 3.81)) (justify left bottom))
