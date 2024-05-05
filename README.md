@@ -42,6 +42,11 @@ Initial revision.
 * DA15 connector now has MCU's BOOT0 signal available at pin 13.
 * Bodge wire mod is no longer required, as both baseband trigger signals are now routed to the MCU.
 
+### Revision C
+* Added a lowpass filter after the RF PA stage
+* Added a bandpass filter at the RF input
+* TX and RX blocks are now clocked independently
+* Pull-down resistor at TP2 (BOOT1)
 
 ## License
 This work is licensed under a
