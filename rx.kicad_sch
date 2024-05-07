@@ -4355,7 +4355,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" "C0603C223K4RACTU"
+		(property "PN" "C0603C224K4RACTU"
 			(at 247.65 105.41 0)
 			(effects
 				(font
@@ -4364,7 +4364,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C0603C223K4RACTU"
+		(property "MPN" "C0603C224K4RACTU"
 			(at 247.65 105.41 0)
 			(effects
 				(font

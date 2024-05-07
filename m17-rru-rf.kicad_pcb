@@ -30645,7 +30645,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C223K4RACTU"
+		(property "MPN" "C0603C224K4RACTU"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -30657,7 +30657,7 @@
 				)
 			)
 		)
-		(property "PN" "C0603C223K4RACTU"
+		(property "PN" "C0603C224K4RACTU"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -57631,8 +57631,8 @@
 				)
 			)
 		)
-		(property "MPN" "C0603C223K4RACTU"
-			(at 0 0 0)
+		(property "MPN" "C0603C224K4RACTU"
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e07b93f0-a72b-4788-9702-9551453a1708")
@@ -57643,8 +57643,8 @@
 				)
 			)
 		)
-		(property "PN" "C0603C223K4RACTU"
-			(at 0 0 0)
+		(property "PN" "C0603C224K4RACTU"
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "57ebfcf6-6702-43ee-8c00-e946e073b365")
