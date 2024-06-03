@@ -25,6 +25,13 @@ Dummy load: Anaren [J100N50X4B](https://www.mouser.pl/datasheet/2/21/J100N50X4B-
 ## Firmware
 A basic, "crash-test" frmware template is available [here](https://github.com/M17-Project/rru-rf-fw).
 
+### Flashing the MCU over UART
+- Build the firmware using CubeIDE
+- Copy the .bin file over to Raspberry Pi
+- Run `stm32flash -v -R -i "-539&-529&539,529,:-539,-529,529" -w rru-rf-fw.bin /dev/ttyAMA0`
+
+In case of problems, see [this](https://github.com/M17-Project/rpi-interface?tab=readme-ov-file#flashing-the-target-device-cc1200-hat) for some additional explanation.
+
 ## Chassis
 Milled aluminum chassis is required. A reference design can be obtained from a [separate repository](https://github.com/M17-Project/rru-rf-chassis).
 
