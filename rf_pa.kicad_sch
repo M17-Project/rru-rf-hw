@@ -5184,9 +5184,9 @@
 		)
 		(uuid "52eb6c2b-84e4-4297-a899-a3f1ffbc8626")
 	)
-	(text "Caps to be populated manually later on"
+	(text "Aircoils to be populated manually"
 		(exclude_from_sim no)
-		(at 300.99 127 0)
+		(at 303.53 127 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5826,9 +5826,9 @@
 		(at 320.04 113.03 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f6e6b34-3f22-477a-9eeb-92c333fdd9b1")
 		(property "Reference" "C21"
@@ -5840,7 +5840,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TBF"
+		(property "Value" "8p2"
 			(at 322.3641 114.2484 0)
 			(effects
 				(font
@@ -5876,7 +5876,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" ""
+		(property "PN" "12067A8R2BAT2A"
 			(at 320.04 113.03 0)
 			(effects
 				(font
@@ -5885,7 +5885,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "12067A8R2BAT2A"
 			(at 320.04 113.03 0)
 			(effects
 				(font
@@ -6311,9 +6311,9 @@
 		(at 304.8 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1d56822d-ac6f-4ed1-8942-604ccf02bd53")
 		(property "Reference" "C18"
@@ -6325,7 +6325,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TBF"
+		(property "Value" "1p5"
 			(at 307.1241 111.7084 0)
 			(effects
 				(font
@@ -6361,7 +6361,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" ""
+		(property "PN" "12067A1R5CAT2A"
 			(at 304.8 110.49 0)
 			(effects
 				(font
@@ -6370,7 +6370,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "12067A1R5CAT2A"
 			(at 304.8 110.49 0)
 			(effects
 				(font
@@ -7371,7 +7371,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TBF"
+		(property "Value" "DNP"
 			(at 337.6041 101.5484 0)
 			(effects
 				(font
@@ -9465,9 +9465,9 @@
 		(at 335.28 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "710c5c3a-1196-42d7-93a4-a0ed5cc7bc6c")
 		(property "Reference" "C25"
@@ -9479,7 +9479,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TBF"
+		(property "Value" "2p7"
 			(at 337.6041 111.7084 0)
 			(effects
 				(font
@@ -9515,7 +9515,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" ""
+		(property "PN" "12062A2R7CAT2A"
 			(at 335.28 110.49 0)
 			(effects
 				(font
@@ -9524,7 +9524,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "12062A2R7CAT2A"
 			(at 335.28 110.49 0)
 			(effects
 				(font
@@ -11969,7 +11969,7 @@
 				)
 			)
 		)
-		(property "Value" "MM3Z5V1S"
+		(property "Value" "MM3Z4V7S"
 			(at 198.12 66.8599 0)
 			(effects
 				(font
@@ -12004,7 +12004,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" "863-MM3Z5V1ST1G"
+		(property "PN" "MM3Z4V7ST1G"
 			(at 198.12 69.85 0)
 			(effects
 				(font
@@ -12013,7 +12013,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "863-MM3Z5V1ST1G"
+		(property "MPN" "MM3Z4V7ST1G"
 			(at 198.12 69.85 0)
 			(effects
 				(font
@@ -13083,9 +13083,9 @@
 		(at 304.8 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e44162f3-1a84-4795-b308-a5ead7f53758")
 		(property "Reference" "C17"
@@ -13097,7 +13097,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TBF"
+		(property "Value" "1p5"
 			(at 307.1241 101.5484 0)
 			(effects
 				(font
@@ -13133,7 +13133,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" ""
+		(property "PN" "12067A1R5CAT2A"
 			(at 304.8 100.33 0)
 			(effects
 				(font
@@ -13142,7 +13142,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "12067A1R5CAT2A"
 			(at 304.8 100.33 0)
 			(effects
 				(font
@@ -13762,9 +13762,9 @@
 		(at 320.04 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ef39f591-c27b-44cf-8166-9b73fe3b61a1")
 		(property "Reference" "C20"
@@ -13776,7 +13776,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TBF"
+		(property "Value" "1p5"
 			(at 322.3641 101.5484 0)
 			(effects
 				(font
@@ -13812,7 +13812,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" ""
+		(property "PN" "12067A1R5CAT2A"
 			(at 320.04 100.33 0)
 			(effects
 				(font
@@ -13821,7 +13821,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "12067A1R5CAT2A"
 			(at 320.04 100.33 0)
 			(effects
 				(font
